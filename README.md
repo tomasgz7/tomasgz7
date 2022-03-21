@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning in depth **Ridux.**
 
-- 📫 How to reach me **elocomy98@gmail.com**
+- 📫 How to reach me **https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:293c3b1c-3dde-357b-b099-49c8917d91d3**
 
 - 📄 Know about my experiences [tomasgz7.github.io/portafolio/](tomasgz7.github.io/portafolio/)
 
