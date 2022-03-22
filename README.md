@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás Guzman</h1>
-<h3 align="center">I'm Full-Stack developer from Argentina 🇦🇷</h3>
+<h3 align="center">I'm developer from Argentina 🇦🇷</h3>
 
 - 🌱 I’m currently learning in depth **Ridux.**
 
