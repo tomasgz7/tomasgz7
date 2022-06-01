@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **elocomy98@gmail.com**
 
-- 📄 Know about my experiences https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:293c3b1c-3dde-357b-b099-49c8917d91d3
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
