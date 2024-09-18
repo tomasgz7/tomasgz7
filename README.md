@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Tomás Guzman</h1>
 <h3 align="center">I'm Developer from Argentina 🇦🇷</h3>
 
-- 🌱 I’m currently learning in depth **Ridux.**
+- 🌱 I’m currently learning in depth **JAVA.**
 
 - 📫 How to reach me **elocomy98@gmail.com**
 
