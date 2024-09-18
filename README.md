@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tomás Guzman</h1>
-<h3 align="center">I'm Dev from Argentina 🇦🇷</h3>
+<h1 align="center">Hi , I'm Tomás Guzman</h1>
+<h3 align="center">I'm Developer from Argentina 🇦🇷</h3>
 
 - 🌱 I’m currently learning in depth **Ridux.**
 
