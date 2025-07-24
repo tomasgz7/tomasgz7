@@ -1,14 +1,7 @@
 <h1 align="center">¡Hey 👋 Qué tal!</h1>
 <h3 align="center">Soy Tomás Guzman, Desarrollador de Argentina 🇦🇷</h3>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomasgz7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasgz7&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://images.steamusercontent.com/ugc/91600930955090457/9EA5BC2F86D48DDBDE08B79EF85E6160391C577A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 
 ---
 
@@ -46,4 +39,13 @@
 
 ---
 
-### 🏁 Gracias por visitar mi perfil 💙
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomasgz7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasgz7&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 🏁 ¡Gracias por visitar mi perfil!
