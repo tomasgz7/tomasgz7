@@ -1,5 +1,5 @@
-<h1 align="center">¡Hey 👋 Qué tal!</h1>
-<h3 align="center">Soy Tomás Guzman, Desarrollador de Argentina 🇦🇷</h3>
+<h1 align="center">Soy Tomas Guzman</h1>
+<h3 align="center">Desarrollador de Argentina 🇦🇷</h3>
 
 ---
 
