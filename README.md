@@ -3,6 +3,15 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomasgz7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasgz7&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+
+---
+
 ### 🌱 Sobre mí
 
 - 💻 Actualmente profundizando mis conocimientos en **Java**  
@@ -37,19 +46,4 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tomasgz7&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=tomasgz7&theme=dracula&margin-w=8&margin-h=8&no-frame=false" height="150" />
-</div>
-
----
-
-### 🕹️ Gráfico de contribuciones estilo Pac-Man
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomasgz7/tomasgz7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomasgz7/tomasgz7/output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de contribuciones tipo Pac-Man" src="https://raw.githubusercontent.com/tomasgz7/tomasgz7/output/pacman-contribution-graph.svg">
-</picture>
+### 🏁 Gracias por visitar mi perfil 💙
