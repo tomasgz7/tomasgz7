@@ -7,7 +7,6 @@
 
 - 💻 Actualmente me encuentro estudiando y practicando **Java**, **Spring Boot**, **Docker**, **SQL**, **Postman** y **Git**  
 - 🧠 Me apasiona el desarrollo web y la mejora continua  
-- 📬 Podés contactarme en **elocomy98@gmail.com**
 
 ---
 
