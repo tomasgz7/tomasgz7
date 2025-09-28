@@ -1,27 +1,32 @@
-# 👋 Hola, soy Tomas Guzman
+# 👋 Hola, soy Tomás Guzmán
 
-🚀 **Desarrollador Frontend** con experiencia real en **React.js + JavaScript (ES6+)** y en transición sólida a **Java + Spring Boot**.  
-Tengo un perfil versátil: puedo diseñar interfaces modernas y también construir APIs robustas orientadas a objetos.  
+ **Frontend Developer** especializado en **React.js** y **JavaScript (ES6+)**, con experiencia desarrollando aplicaciones web responsivas y centradas en la experiencia de usuario.  
 
-💻 **Experiencia destacada**:
+ **Experiencia**:
 - **Resilience Media Group** (2023–2025): desarrollo de landing pages y una plataforma de boletería online con **React + Node.js**.  
-- **IngeniusT** (2023): optimización de componentes React y resolución de bugs críticos en sitios productivos.  
+- **IngeniusT** (2023): optimización de componentes React, resolución de bugs críticos y mejoras de usabilidad con HTML5 y CSS3.  
 
-🎓 **Formación**:
+ **Formación**:
 - Técnico Superior en Análisis de Sistemas (2º año en curso).  
-- Máster Completo en Java (Udemy) y especialización en React.js.  
+- Cursos avanzados en React.js, JavaScript moderno y desarrollo web full stack.  
 
-🛠️ **Stack principal**:
-- **Frontend:** React.js, JavaScript ES6+, HTML5, CSS3, Bootstrap.  
-- **Backend:** Java (POO, Spring Boot, Hibernate, REST APIs), Node.js, Express.js, MongoDB.  
-- **Otros:** Git, GitHub, Agile/Scrum.  
+ **Stack principal**:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
-📫 **Cómo contactarme**:
+---
+
+ **Contacto**:
 - [LinkedIn](https://www.linkedin.com/in/tomasgz7)  
 - [Email](mailto:tomasgz.dev@gmail.com)  
 - [GitHub](https://github.com/tomasgz7)  
 
 ---
 
-⭐ Actualmente busco aportar mi experiencia en frontend + mi formación en backend para proyectos **Full Stack Java/React**.  
-Si tu equipo necesita alguien adaptable, con experiencia real y hambre de aprender rápido: hablemos.
+ Actualmente busco aportar mi experiencia en **frontend con React.js** en proyectos desafiantes, colaborando en equipos ágiles y aprendiendo nuevas tecnologías.  
