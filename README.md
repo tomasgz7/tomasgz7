@@ -1,45 +1,27 @@
-<h1 align="center">Web Developer | Frontend Focused, Learning Backend</h1>
-<h3 align="center">I'm Tomás Guzman, a Web Developer based in Argentina 🇦🇷</h3>
+# 👋 Hola, soy Tomas Guzman
+
+🚀 **Desarrollador Frontend** con experiencia real en **React.js + JavaScript (ES6+)** y en transición sólida a **Java + Spring Boot**.  
+Tengo un perfil versátil: puedo diseñar interfaces modernas y también construir APIs robustas orientadas a objetos.  
+
+💻 **Experiencia destacada**:
+- **Resilience Media Group** (2023–2025): desarrollo de landing pages y una plataforma de boletería online con **React + Node.js**.  
+- **IngeniusT** (2023): optimización de componentes React y resolución de bugs críticos en sitios productivos.  
+
+🎓 **Formación**:
+- Técnico Superior en Análisis de Sistemas (2º año en curso).  
+- Máster Completo en Java (Udemy) y especialización en React.js.  
+
+🛠️ **Stack principal**:
+- **Frontend:** React.js, JavaScript ES6+, HTML5, CSS3, Bootstrap.  
+- **Backend:** Java (POO, Spring Boot, Hibernate, REST APIs), Node.js, Express.js, MongoDB.  
+- **Otros:** Git, GitHub, Agile/Scrum.  
+
+📫 **Cómo contactarme**:
+- [LinkedIn](https://www.linkedin.com/in/tomasgz7)  
+- [Email](mailto:tomasgz.dev@gmail.com)  
+- [GitHub](https://github.com/tomasgz7)  
 
 ---
 
-### 🌱 About Me
-
-- 💻 I'm a passionate **web developer** with real-world experience building websites for businesses and clients.
-- 👨‍💻 I also work as a **freelancer**, delivering custom solutions using modern technologies.
-- 🚀 Currently learning and practicing **Java**, **Spring Boot**, **Docker**, **SQL**, **Postman**, and **Git**.
-- 📬 Reach me at **elocomy98@gmail.com**
-
----
-
-### 🌐 Socials
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/tomasgz7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:elocomy98@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-</div>
-
----
-
-### 🧰 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="60" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomasgz7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasgz7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
-
-### 🏁 Thanks for visiting my profile!
+⭐ Actualmente busco aportar mi experiencia en frontend + mi formación en backend para proyectos **Full Stack Java/React**.  
+Si tu equipo necesita alguien adaptable, con experiencia real y hambre de aprender rápido: hablemos.
