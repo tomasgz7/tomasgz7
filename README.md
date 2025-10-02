@@ -1,36 +1,65 @@
-# 👋 Hola, soy Tomás Guzmán
+# 👋 Hola, soy Tomas Guzmán  
 
- **Frontend Developer** especializado en **React.js** y **JavaScript (ES6+)**, con experiencia desarrollando aplicaciones web responsivas y centradas en la experiencia de usuario.  
-Además, tengo conocimientos de **Node.js** para construir APIs y servicios backend ligeros.  
+**Full Stack Developer (React + Node.js) | En formación en Análisis de Sistemas | Gestión de Proyectos Ágiles**  
 
- **Experiencia**:
-- **Resilience Media Group** (2023–2025): desarrollo de landing pages y una plataforma de boletería online con **React + Node.js**.  
-- **IngeniusT** (2023): optimización de componentes React, resolución de bugs críticos y mejoras de usabilidad con HTML5 y CSS3.  
+Soy **Full Stack Developer con 2 años de experiencia profesional en React.js y Node.js**, construyendo aplicaciones web escalables, responsivas y centradas en la experiencia del usuario.  
+Mi diferencial es que **combino desarrollo técnico con metodologías ágiles de gestión (Scrum, Jira, Trello, Confluence)**, lo que me permite aportar tanto en la calidad del código como en la organización y eficiencia de los equipos.  
 
- **Formación**:
-- Técnico Superior en Análisis de Sistemas (2º año en curso).  
-- Cursos avanzados en React.js, JavaScript moderno y desarrollo web full stack.  
-
-🛠️ **Stack principal**:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+Actualmente curso la **Tecnicatura en Análisis de Sistemas (IFTS Nº21)**, donde profundizo en *Gestión de Proyectos, Arquitectura y Diseño de Sistemas y Ciberseguridad*. Además, continúo capacitándome en tecnologías modernas y gestión TI para seguir creciendo como profesional.  
 
 ---
 
- **Contacto**:
+## 💼 Experiencia Profesional  
+
+### **Resilience Media Group** – *Full Stack Developer*  
+📍 Argentina · Oct 2023 – Mar 2025  
+- Desarrollo de landing pages y plataforma de boletería online con **React + Node.js**.  
+- Implementación de integraciones dinámicas que aumentaron la conversión del sitio en **+12%**.  
+- Optimización del flujo de compra, reduciendo el tiempo en un **20%**.  
+- Reducción de bugs críticos en producción en un **30%** mediante refactorización de componentes React.  
+- Documentación de procesos en **Confluence**, mejorando la comunicación entre equipos y reduciendo tiempos de onboarding en un **15%**.  
+- Participación activa en equipos ágiles, gestionando backlog y tareas en **Jira y Trello**.  
+
+### **IngeniusT** – *Frontend Developer Jr.*  
+📍 Costa Rica · Ene 2021 – Jun 2021  
+- Optimización de componentes en **React**, reduciendo bugs en producción.  
+- Mejora de la usabilidad y diseño con **HTML5, CSS3 y Bootstrap**, incrementando la retención de usuarios.  
+
+---
+
+## 📚 Formación  
+
+- **Tecnicatura Superior en Análisis de Sistemas** – IFTS Nº21 *(en curso)*  
+  - Materias clave: *Gestión de Proyectos, Arquitectura y Diseño de Sistemas, Ciberseguridad, Seminario de Desarrollo Web*.  
+
+- Cursos y Bootcamps:  
+  - **React – La Guía Completa**  
+  - **Javascript Moderno**  
+  - **NUCBA – Full Stack Developer**  
+  - **InfoJobs Bootcamp – Full Stack (en curso)**  
+  - **Máster Completo en Java – Udemy (en curso)**  
+
+---
+
+## 🛠️ Tecnologías y Herramientas  
+
+**Gestión:** Jira, Trello, Confluence, Scrum, Agile.  
+**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap.  
+**Backend:** Node.js, Express.js, MongoDB.  
+**Otros:** Git, GitHub, Responsive Design.  
+**En formación:** Java, Spring Boot.  
+
+---
+
+## 🌍 Idiomas  
+- Español (nativo)  
+- Inglés (intermedio – IT reading & writing)  
+
+---
+
+## 📬 Contacto  
 - [LinkedIn](https://www.linkedin.com/in/tomasgz7)  
 - [Email](mailto:tomasgz.dev@gmail.com)  
 - [GitHub](https://github.com/tomasgz7)  
 
 ---
-
- Actualmente busco aportar mi experiencia en **frontend con React.js** y mi background en **Node.js** para proyectos desafiantes, colaborando en equipos ágiles y aprendiendo nuevas tecnologías.  
-
-
