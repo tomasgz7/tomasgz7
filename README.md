@@ -1,4 +1,4 @@
-# 👋 Hola, soy Tomas Guzmán  
+# 👋 Hola, soy Tomas Guzman  
 
 **Full Stack Developer (React + Node.js) | En formación en Análisis de Sistemas | Gestión de Proyectos Ágiles**  
 
