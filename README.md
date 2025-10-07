@@ -1,3 +1,4 @@
+## 🌐 About Me:
 Frontend Developer with 1 year of experience working in an agency and on freelance projects. Currently in my 2nd year of a Systems Analysis degree. I specialize in React, JavaScript, HTML, and CSS, and I’m currently learning Java. Passionate about technology and continuous learning, I enjoy combining creativity and logic to build functional and engaging web experiences.
 
 
