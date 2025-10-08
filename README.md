@@ -46,7 +46,7 @@ A personal repository documenting my journey learning Java. Covers basic syntax,
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tomasgz7/)  
 - 🌐 Portfolio: *(coming soon)*  
-- 📧 tomasguzman.dev@gmail.com
+- 📧 tomasgz.dev@gmail.com
 
 ---
 
