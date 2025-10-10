@@ -35,7 +35,7 @@ A prototype website for a marketing and logistics agency, built with HTML, Tailw
 ### 📦 [Kronner](https://kronner-logistica-prototipo.netlify.app/)  
 A logistics and messaging service prototype with a functional contact form and a structured layout designed for future backend integration.
 
-### ☕ [Learning Java](https://github.com/tomasgz7/learning-java)  
+### ☕ [Learning Java](https://github.com/tomasgz7/PracticasJava)  
 A personal repository documenting my journey learning Java. Covers basic syntax, control structures, packages, and classes, with plans to incorporate Object-Oriented Programming and Spring Boot.
 
 *(More projects coming soon — currently working on full stack integrations 👨‍💻)*
