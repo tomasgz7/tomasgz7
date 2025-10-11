@@ -3,7 +3,7 @@
 I'm a **Web Developer** with **1 year of experience**, working at an agency and on various **freelance projects**, collaborating with clients from different sectors such as **theaters**, **small businesses**, and **gyms**.
 
 I have a **strong foundation in HTML5, CSS3, and JavaScript**, and hands-on experience with **React**, acquired through personal projects and self-directed learning.  
-In addition to frontend development, I'm currently **learning Java** to expand my skills into **backend development**, focusing on **object-oriented programming** and eventually **Spring Boot** for building robust server-side applications.
+In addition to frontend development, I'm currently **learning Java** to expand my skills into **backend development**, focusing on **Object-Oriented Programming** and **Spring Boot** for building robust server-side applications.
 
 🎓 I'm currently pursuing a **Higher Technical Degree in Systems Analysis (IFTS Nº21)**.  
 I’ve also completed **courses and bootcamps** in key technologies such as **React**, **Modern JavaScript**, and **Full Stack Development**, which have strengthened both my frontend and backend capabilities.
@@ -21,22 +21,27 @@ I’ve also completed **courses and bootcamps** in key technologies such as **Re
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomasgz7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasgz7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+![tomasgz7's Stats](https://github-readme-stats.vercel.app/api?username=tomasgz7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
+
+![tomasgz7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomasgz7&theme=tokyonight&hide_border=true)  
+
+![tomasgz7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgz7&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 [Resilience Media Group](https://68e64a55c2f057af362d1f88--resiliencemediagroup.netlify.app/)  
-A prototype website for a marketing and logistics agency, built with HTML, Tailwind CSS, and JavaScript. Showcases multiple services with a clean, responsive design.
+### 🌐 [Resilience Media Group](https://68e64a55c2f057af362d1f88--resiliencemediagroup.netlify.app/)
+A prototype website for a marketing and logistics agency, built with **HTML**, **Tailwind CSS**, and **JavaScript**. Showcases multiple services with a clean, responsive design.
 
-### 📦 [Kronner](https://kronner-logistica-prototipo.netlify.app/)  
+### 📦 [Kronner](https://kronner-logistica-prototipo.netlify.app/)
 A logistics and messaging service prototype with a functional contact form and a structured layout designed for future backend integration.
 
-### ☕ [Learning Java](https://github.com/tomasgz7/LearningJava)  
-A personal repository documenting my journey learning Java. Covers basic syntax, control structures, packages, and classes, with plans to incorporate Object-Oriented Programming and Spring Boot.
+### ☕ [Learning Java](https://github.com/tomasgz7/LearningJava)
+A personal repository documenting my journey learning Java. Covers basic syntax, control structures, packages, and classes, with plans to incorporate **Object-Oriented Programming** and **Spring Boot**.
 
 *(More projects coming soon — currently working on full stack integrations 👨‍💻)*
 
@@ -44,10 +49,10 @@ A personal repository documenting my journey learning Java. Covers basic syntax,
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tomasgz7/)  
-- 🌐 Portfolio: *(coming soon)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tomasgz7/)
+- 🌐 Portfolio: *(coming soon)*
 - 📧 tomasgz.dev@gmail.com
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect if you'd like to collaborate or chat about web development, Java, or backend technologies.*
+⭐ *Thanks for visiting! I'm always open to connecting, sharing knowledge, and collaborating on exciting development projects.*
