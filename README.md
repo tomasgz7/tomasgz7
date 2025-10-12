@@ -1,58 +1,72 @@
-# 👋 Hi, I'm Tomas Guzman
+# 👋 Hi, I'm **Tomas Guzman**
 
-I'm a **Web Developer** with **1 year of experience**, working at an agency and on various **freelance projects**, collaborating with clients from different sectors such as **theaters**, **small businesses**, and **gyms**.
+🎯 **Frontend Developer** with agency and freelance experience delivering responsive, high-performance websites.  
+💻 Focused on clean architecture, modern UI, and scalable design systems.  
+🌱 Currently learning **Java & Spring Boot** to expand into full stack development.  
+🔍 Open to **Frontend / Full Stack Jr opportunities** (onsite · hybrid · remote).
 
-I have a **strong foundation in HTML5, CSS3, and JavaScript**, and hands-on experience with **React**, acquired through personal projects and self-directed learning.  
-In addition to frontend development, I'm currently **learning Java** to expand my skills into **backend development**, focusing on **Object-Oriented Programming** and **Spring Boot** for building robust server-side applications.
-
-🎓 I'm currently pursuing a **Higher Technical Degree in Systems Analysis (IFTS Nº21)**.  
-I’ve also completed **courses and bootcamps** in key technologies such as **React**, **Modern JavaScript**, and **Full Stack Development**, which have strengthened both my frontend and backend capabilities.
+📬 **Contact:** [tomasgz.dev@gmail.com](mailto:tomasgz.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tomasgz7) · [Portfolio](https://tomasgz7.github.io/Portafolio/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5 · CSS3 · JavaScript · React  
-- **Currently Learning:** ☕ Java · Object-Oriented Programming · Spring Boot  
-- **Tools & Others:** Git · GitHub · Tailwind CSS · Responsive Design
+**Frontend:** React · JavaScript (ES6+) · HTML5 · CSS3 · Responsive Design  
+**Backend (learning):** Java · Spring Boot · Node.js · Express  
+**Tools & Platforms:** Git · GitHub · Netlify · Jira · Confluence · Trello · VS Code · Lighthouse · TailwindCSS  
+**Methodologies:** Agile · Scrum · Kanban
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|--------------|
+|  [**Resilience Media Group**](https://resiliencemediagroup.netlify.app/) | Digital agency website built with **React**, **JavaScript**, **HTML5** & **CSS3**. Focused on UX/UI, responsive design and performance optimization. Achieved **Lighthouse 94/100**. Led architecture and stack decisions. |
+|  [**Kronner – Logistics Platform**](https://kronner-logistica-prototipo.netlify.app/) | Logistics & courier app prototype built with **Node.js (Express)**, **JavaScript**, and **CSS3**. Features responsive design, validated forms, and modular structure. |
+|  [**Learning Java**](https://github.com/tomasgz7/LearningJava) | Personal repository documenting my learning process in **Java** and **Spring Boot**, from syntax to OOP and backend fundamentals. |
+
+---
+
+### 🖼️ Project Gallery
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99af1f7c-23b1-4b88-956a-e76722403616" width="90%" alt="Resilience Media Group Preview">
+  <br>
+  <img src="https://github.com/user-attachments/assets/cc53f618-f716-4baa-824b-0ed707294eb5" width="90%" alt="Kronner Platform Preview">
+</p>
+
+---
+
+## 📈 GitHub Overview
 
 <div align="center">
 
-![tomasgz7's Stats](https://github-readme-stats.vercel.app/api?username=tomasgz7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
-
-![tomasgz7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomasgz7&theme=tokyonight&hide_border=true)  
-
+![tomasgz7's Stats](https://github-readme-stats.vercel.app/api?username=tomasgz7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide_title=true)
 ![tomasgz7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgz7&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💬 About Me
 
-### 🌐 [Resilience Media Group](https://68e64a55c2f057af362d1f88--resiliencemediagroup.netlify.app/)
-A prototype website for a marketing and logistics agency, built with **HTML**, **Tailwind CSS**, and **JavaScript**. Showcases multiple services with a clean, responsive design.
-
-### 📦 [Kronner](https://kronner-logistica-prototipo.netlify.app/)
-A logistics and messaging service prototype with a functional contact form and a structured layout designed for future backend integration.
-
-### ☕ [Learning Java](https://github.com/tomasgz7/LearningJava)
-A personal repository documenting my journey learning Java. Covers basic syntax, control structures, packages, and classes, with plans to incorporate **Object-Oriented Programming** and **Spring Boot**.
-
-*(More projects coming soon — currently working on full stack integrations 👨‍💻)*
+- 🎓 Studying **Higher Technical Degree in Systems Analysis** (IFTS Nº21).  
+- 📘 Enrolled in **UTN – Systems Engineering (start March 2026)**.  
+- 🚀 Graduate of **NUCBA Web Development** program.  
+- 💡 Experienced in **React, JavaScript, and Node.js** through real agency and freelance projects.  
+- 🤝 Skilled in **Jira, Confluence, and Trello** for Agile collaboration.  
+- 🌟 Passionate about building user-focused, scalable web experiences.
 
 ---
 
-## 📬 Connect with Me
+## 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tomasgz7/)
-- 🌐 Portfolio: *(coming soon)*
-- 📧 tomasgz.dev@gmail.com
+<p align="center">
+  <a href="mailto:tomasgz.dev@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tomasgz7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://tomasgz7.github.io/Portafolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white"></a>
+</p>
 
 ---
 
-⭐ *Thanks for visiting! I'm always open to connecting, sharing knowledge, and collaborating on exciting development projects.*
+⭐ *Thanks for visiting! Feel free to explore my repositories or reach out for collaboration opportunities.*
