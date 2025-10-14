@@ -65,7 +65,7 @@
 <p align="center">
   <a href="mailto:tomasgz.dev@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tomasgz7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://tomasgz7.github.io/Portafolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white"></a>
+  <a href="https://tomasguzmandev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white"></a>
 </p>
 
 ---
