@@ -1,67 +1,102 @@
-# Tomas B. Ezequiel Guzman
+# Tomas B. Ezequiel Guzman  
 
-💻 **Desarrollador Frontend** con experiencia en entornos de agencia y proyectos independientes.  
-Diseño y desarrollo **aplicaciones web escalables, mantenibles y enfocadas en la experiencia de usuario**, aplicando criterios de estructura, claridad y rendimiento.  
-🎯 Combino diseño funcional con pensamiento técnico para crear productos **estables, bien organizados y preparados para crecer**.  
-⚙️ Actualmente **profundizando en Java, POO y Spring Boot** para consolidar una perspectiva **full stack orientada a arquitectura y calidad de software**.
+> Busco crecer un poco más en cada proyecto: mejores decisiones, mejor código, mejores resultados.  
 
 ---
 
-## 🧰 Stack Tecnológico
+Soy **desarrollador Frontend** con base en Buenos Aires.  
+Construyo interfaces que sean claras, rápidas y fáciles de mantener.  
+No escribo por costumbre: cada línea tiene un motivo.  
 
-**Frontend:** React · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · TailwindCSS · Responsive Design  
-**Backend:** Node.js · Express  
-**Formación Complementaria:** Java · POO · Spring Boot  
-**Herramientas:** Git · GitHub · Netlify · Jira · Confluence · Trello · VS Code · Lighthouse  
-**Metodologías:** Ágil · Scrum · Kanban  
-
-🧩 Enfocado en la **optimización, el rendimiento y las decisiones de arquitectura** que permiten escalar productos sin comprometer su mantenibilidad.
+Trabajo con **React**, **TypeScript** y **TailwindCSS**.  
+También estoy profundizando en **Java (POO)** y **Spring Boot**, para ampliar la mirada hacia backend y arquitectura.  
+Busco equilibrio entre detalle, rendimiento y claridad técnica.  
 
 ---
 
-## 🚀 Proyectos Destacados
+## 💡 Enfoque
 
-| Proyecto | Descripción |
-|-----------|-------------|
-| [**Resilience Media Group**](https://resiliencemediagroup.netlify.app/) | Sitio web corporativo desarrollado con **React**, **JavaScript**, **HTML5** y **CSS3**. Optimizado para rendimiento, accesibilidad y SEO. Alcanzó **Lighthouse 94/100**. Lideré la arquitectura y la implementación técnica. |
-| [**Kronner – Plataforma de Logística**](https://kronner-logistica-prototipo.netlify.app/) | Prototipo funcional de **gestión logística** construido con **Node.js (Express)** y **JavaScript**, centrado en modularidad, validaciones y estructura adaptable. |
-| [**Learning Java**](https://github.com/tomasgz7/LearningJava) | Repositorio personal que documenta mi progreso en **Java**, **POO** y **Spring Boot**, explorando estructuras de backend, patrones de diseño y principios de arquitectura limpia. |
+- **Primero el orden.** Si algo es claro, ya está medio resuelto.  
+- **El código tiene que poder leerse.** Si se explica solo, está bien.  
+- **Rendimiento como parte del diseño.** No es un agregado, es parte del proceso.  
+- **Trabajo en equipo sin ruido.** Comunicación directa, commits limpios y decisiones justificadas.  
 
-📌 Cada proyecto refleja una etapa de mi evolución técnica: **de la construcción de interfaces al diseño de sistemas sostenibles**.
-
----
-
-## 💬 Sobre Mí
-
-Soy un **Desarrollador Frontend con base técnica sólida**, centrado en la ingeniería de interfaces y la calidad de producto.  
-Actualmente curso el **segundo año de la Tecnicatura en Análisis de Sistemas (IFTS Nº21)** y en 2026 iniciaré **Ingeniería en Sistemas de Información (UTN – FRBA)**.  
-
-Graduado del programa **NUCBA – Desarrollo Web Full Stack**, con experiencia profesional en **React, JavaScript, Node.js y Express**, tanto en agencia como en proyectos independientes.  
-Acostumbrado a entornos ágiles, trabajo con **Jira, Confluence y Trello**, priorizando la colaboración y la documentación técnica clara.  
-
-Mi objetivo es seguir desarrollando un perfil integral que combine **frontend, arquitectura de software y pensamiento sistémico**, para aportar soluciones **claras, escalables y de impacto real**.
+No me interesa perseguir modas: me interesa construir cosas que duren.  
 
 ---
 
-## 📈 Actividad en GitHub
+## 🧰 Stack
 
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=tomasgz7&theme=transparent&hide_border=true&cache_seconds=7200)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgz7&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=7200)
-
-</div>
+**Frontend:** React · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · TailwindCSS  
+**Backend (en avance):** Node.js · Express · Java · Spring Boot  
+**Herramientas:** Git · GitHub · Netlify · VS Code · Lighthouse · Jira · Confluence · Trello  
 
 ---
 
-## 🔗 Conectemos
+## 🚀 Proyectos
 
-<p align="center">
-  <a href="mailto:tomasgz.dev@gmail.com"><img src="https://img.shields.io/badge/Correo-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/tomasgz7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white"></a>
-  <a href="https://tomasguzmandev.netlify.app/"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=astro&logoColor=white"></a>
-</p>
+### 🧭 Portafolio Personal  
+Sitio desarrollado con **Astro**, **TypeScript** y **TailwindCSS**, pensado como una experiencia fluida, rápida y accesible.  
+Cada sección (About, Technologies, Projects, Contact) fue construida desde cero, priorizando **arquitectura modular, optimización y coherencia visual**.  
+**Stack:** Astro · TypeScript · TailwindCSS · Netlify  
+🔗 [Demo](https://tomasguzmandev.netlify.app/) · [Repositorio](https://github.com/tomasgz7/Portfolio)
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Busco colaborar en proyectos donde la ingeniería, la claridad técnica y la escalabilidad sean prioridad.*
+### 🌐 Resilience Media Group  
+Sitio corporativo modular optimizado para rendimiento (**Lighthouse 94/100**).  
+Arquitectura limpia, componentes reutilizables y despliegue automatizado.  
+**Stack:** React · CSS · Netlify  
+🔗 [Demo](https://resiliencemediagroup.netlify.app/) · [Repositorio](https://github.com/tomasgz7/PaginaResilience)  
+
+---
+
+### 📦 Kronner Logística  
+Prototipo funcional de plataforma logística full-stack.  
+API REST con **Express**, vistas dinámicas y separación clara de capas.  
+**Stack:** Node.js · Express · JavaScript  
+🔗 [Demo](https://kronner-logistica-prototipo.netlify.app/) · [Repositorio](https://github.com/tomasgz7/PaginaKronner)  
+
+---
+
+### ☕ Learning Java  
+Repositorio personal de práctica backend.  
+Ejercicios de POO, estructuras de datos y primeros pasos con **Spring Boot**.  
+🔗 [Repositorio](https://github.com/tomasgz7/LearningJava)  
+
+---
+
+## 🎓 Formación
+
+- **Tecnicatura en Análisis de Sistemas — IFTS Nº21 (2024–2026)**  
+- **Ingeniería en Sistemas de Información — UTN FRBA (inicio 2026)**  
+- **Desarrollo Web Full Stack — NUCBA**  
+
+---
+
+## 📈 Actividad en GitHub  
+
+<div align="center">  
+<br/>  
+<img src="https://nirzak-streak-stats.vercel.app/?user=tomasgz7&theme=transparent&hide_border=true&cache_seconds=7200"/><br/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgz7&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=7200"/>  
+</div>  
+
+---
+
+## 🎯 Qué busco aportar
+
+Quiero formar parte de equipos donde se valore:  
+- Código mantenible y escalable.  
+- Comunicación técnica clara.  
+- Aprendizaje continuo y criterio en las decisiones.  
+
+Mi objetivo es construir software que no solo funcione hoy, sino que **se sostenga y evolucione mañana**.  
+
+---
+
+## 📬 Contacto
+
+📧 **tomasgz.dev@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/tomasgz7)  
+🐙 [GitHub](https://github.com/tomasgz7)
