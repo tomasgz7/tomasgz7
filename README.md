@@ -1,15 +1,15 @@
 # Tomas B. Ezequiel Guzman
 
-💻 **Desarrollador Frontend** con experiencia en entornos de agencia y proyectos freelance.  
-Diseño y construyo **aplicaciones web escalables y mantenibles**, con foco en estructura, claridad y consistencia del código.  
-🎯 Integro diseño funcional y pensamiento técnico para desarrollar productos estables, bien organizados y fáciles de evolucionar.  
-⚙️ Actualmente **fortaleciendo mi dominio en Java, POO y Spring Boot**, para consolidar un enfoque full stack orientado a la arquitectura y la calidad del software.
+💻 **Desarrollador Frontend** con experiencia en entornos de agencia y proyectos independientes.  
+Diseño y desarrollo **aplicaciones web escalables, mantenibles y enfocadas en la experiencia de usuario**, aplicando criterios de estructura, claridad y rendimiento.  
+🎯 Combino diseño funcional con pensamiento técnico para crear productos **estables, bien organizados y preparados para crecer**.  
+⚙️ Actualmente **profundizando en Java, POO y Spring Boot** para consolidar una perspectiva **full stack orientada a arquitectura y calidad de software**.
 
 ---
 
 ## 🧰 Stack Tecnológico
 
-**Frontend:** React · JavaScript (ES6+) · HTML5 · CSS3 · TailwindCSS · Responsive Design  
+**Frontend:** React · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · TailwindCSS · Responsive Design  
 **Backend:** Node.js · Express  
 **Formación Complementaria:** Java · POO · Spring Boot  
 **Herramientas:** Git · GitHub · Netlify · Jira · Confluence · Trello · VS Code · Lighthouse  
@@ -23,23 +23,23 @@ Diseño y construyo **aplicaciones web escalables y mantenibles**, con foco en e
 
 | Proyecto | Descripción |
 |-----------|-------------|
-| [**Resilience Media Group**](https://resiliencemediagroup.netlify.app/) | Sitio web corporativo desarrollado con **React**, **JavaScript**, **HTML5** y **CSS3**. Optimizado para rendimiento, accesibilidad, SEO y mantenibilidad. Lideré la arquitectura y la implementación técnica. |
-| [**Kronner – Plataforma de Logística**](https://kronner-logistica-prototipo.netlify.app/) | Prototipo funcional de gestión logística construido con **Node.js (Express)** y **JavaScript**. Enfocado en modularidad, validaciones y estructura adaptable. |
-| [**Learning Java**](https://github.com/tomasgz7/LearningJava) | Repositorio personal que documenta mi avance en **Java**, **POO** y **Spring Boot**, profundizando en estructuras de backend, patrones de diseño y principios de arquitectura. |
+| [**Resilience Media Group**](https://resiliencemediagroup.netlify.app/) | Sitio web corporativo desarrollado con **React**, **JavaScript**, **HTML5** y **CSS3**. Optimizado para rendimiento, accesibilidad y SEO. Alcanzó **Lighthouse 94/100**. Lideré la arquitectura y la implementación técnica. |
+| [**Kronner – Plataforma de Logística**](https://kronner-logistica-prototipo.netlify.app/) | Prototipo funcional de **gestión logística** construido con **Node.js (Express)** y **JavaScript**, centrado en modularidad, validaciones y estructura adaptable. |
+| [**Learning Java**](https://github.com/tomasgz7/LearningJava) | Repositorio personal que documenta mi progreso en **Java**, **POO** y **Spring Boot**, explorando estructuras de backend, patrones de diseño y principios de arquitectura limpia. |
 
-📌 Cada proyecto representa una etapa distinta de mi evolución técnica: del desarrollo de interfaces al razonamiento sobre estructura y escalabilidad.
+📌 Cada proyecto refleja una etapa de mi evolución técnica: **de la construcción de interfaces al diseño de sistemas sostenibles**.
 
 ---
 
 ## 💬 Sobre Mí
 
-Soy un **Desarrollador Frontend con base técnica sólida**, centrado en ingeniería de interfaces y calidad de producto.  
+Soy un **Desarrollador Frontend con base técnica sólida**, centrado en la ingeniería de interfaces y la calidad de producto.  
 Actualmente curso el **segundo año de la Tecnicatura en Análisis de Sistemas (IFTS Nº21)** y en 2026 iniciaré **Ingeniería en Sistemas de Información (UTN – FRBA)**.  
 
 Graduado del programa **NUCBA – Desarrollo Web Full Stack**, con experiencia profesional en **React, JavaScript, Node.js y Express**, tanto en agencia como en proyectos independientes.  
 Acostumbrado a entornos ágiles, trabajo con **Jira, Confluence y Trello**, priorizando la colaboración y la documentación técnica clara.  
 
-Mi objetivo es consolidar un perfil integral que combine **diseño de interfaz, arquitectura de software y pensamiento orientado a sistemas**, para aportar soluciones consistentes, escalables y mantenibles.
+Mi objetivo es seguir desarrollando un perfil integral que combine **frontend, arquitectura de software y pensamiento sistémico**, para aportar soluciones **claras, escalables y de impacto real**.
 
 ---
 
@@ -64,4 +64,4 @@ Mi objetivo es consolidar un perfil integral que combine **diseño de interfaz, 
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Abierto a colaborar en proyectos donde la ingeniería y la claridad técnica sean prioridad.*
+⭐ *Gracias por visitar mi perfil. Busco colaborar en proyectos donde la ingeniería, la claridad técnica y la escalabilidad sean prioridad.*
