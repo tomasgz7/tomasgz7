@@ -1,87 +1,36 @@
 <h1 align="center">Tomas B. Ezequiel Guzman</h1>
-<h3 align="center">Frontend Developer | Building a Software & Web Design Company</h3>
-
-<p align="center">
-  <em>"I can’t allow myself to be ordinary." — Roronoa Zoro</em><br/>
-  <em>Una filosofía que aplico dentro y fuera del código.</em>
-</p>
+<h3 align="center">Frontend Developer | Building a Software Design & Development Company</h3>
 
 ---
 
 ## Sobre mí
 
-Desde los 14 años descubrí mi interés por la tecnología reparando y optimizando PCs.  
-Formateaba equipos, limpiaba sistemas y buscaba mejorar el rendimiento.  
-En ese proceso nació mi curiosidad por entender cómo funciona todo por dentro.
+A los 14 años empecé a reparar y optimizar PCs.  
+Ese fue el inicio de mi interés por entender cómo funcionan las cosas por dentro.  
 
-En 2021 cursé el Bootcamp Full Stack Developer en NUCBA,  
-donde aprendí diseño web, React JS y fundamentos de backend.  
-También realicé cursos en Udemy compartidos por un amigo,  
-donde fortalecí mis bases en HTML, CSS, JavaScript, React y lógica de programación.  
+En 2021 cursé el Bootcamp Full Stack Developer en NUCBA  
+y realicé varios cursos en Udemy sobre JavaScript, React y lógica de programación.  
 
-Ese mismo año comencé la Tecnicatura en Análisis de Sistemas,  
-pero los primeros desafíos me abrumaron.  
-Abandoné la carrera y mi primer empleo como desarrollador,  
-convencido de que no era lo mío.  
-Pasé un momento difícil, pero esa pausa me enseñó a recomenzar desde cero.
+Ese mismo año inicié la Tecnicatura en Análisis de Sistemas,  
+pero decidí pausarla junto a mi primer trabajo como desarrollador.  
+Fue una etapa difícil, aunque con el tiempo entendí que no era un final.  
 
-En 2024 volví con propósito:  
-retomé la carrera, mejoré mi disciplina y me uní a una agencia de marketing digital,  
-donde desarrollé sitios desde cero, probé APIs, configuré Express y realicé despliegues.  
+En 2024 retomé la carrera, mejoré mi disciplina y trabajé en una agencia digital  
+creando sitios, APIs y despliegues desde cero.  
 
-Hoy sigo aprendiendo Java, POO y Spring Boot,  
-y en 2025 me preinscribí en la UTN FRBA para Ingeniería en Sistemas de Información,  
-rindiendo Matemática y Física este diciembre.  
-En julio de 2026, terminaré mi Tecnicatura en Análisis de Sistemas (IFTS Nº21).  
-
-Cada error fue una lección; cada avance, una confirmación de que esto sí es lo mío.
-
----
-
-## Visión
-
-Sueño con crear una empresa de software, diseño web y marketing digital  
-que no solo venda servicios, sino que abra puertas.  
-
-Quiero ofrecer oportunidades reales a quienes recién comienzan,  
-a los que buscan su primer empleo o un cambio de rumbo.  
-
-> No espero a que las oportunidades lleguen.  
-> Prefiero construirlas, con trabajo y con gente que piense igual.
-
----
-
-## Filosofía y valores
-
-- Nadie nace sabiendo. Todos empezamos siendo trainees o juniors.  
-- El código es importante, pero las personas lo son más.  
-- La disciplina vence al talento cuando el talento no se esfuerza.  
-- No busco ser el mejor: busco no rendirme nunca.  
-
-No persigo modas: persigo propósito.
-
----
-
-## Aprendizajes
-
-Abandonar dos veces una carrera fue un error:  
-primero la Tecnicatura en Análisis de Sistemas, y luego Ingeniería en Sistemas en la UBA.  
-Pero cada una me dejó una lección sobre resiliencia, madurez y autoconocimiento.  
-
-Siempre podés volver a empezar.
+Hoy sigo aprendiendo Java, POO y Spring Boot.  
+En 2026 terminaré la Tecnicatura en Análisis de Sistemas  
+y comenzaré Ingeniería en Sistemas de Información (UTN FRBA).  
 
 ---
 
 ## Formación
 
 - **Tecnicatura en Análisis de Sistemas — IFTS Nº21 (2024–2026)**  
-  Actualmente cursando 2º año. Finalización prevista: julio 2026.  
-- **Ingeniería en Sistemas de Información — UTN FRBA (Preinscripción 2025)**  
-  A rendir Matemática y Física en diciembre 2025. Inicio: 2026.  
+  Finalización prevista: julio 2026.  
+- **Ingeniería en Sistemas de Información — UTN FRBA (inicio 2026)**  
 - **Full Stack Web Development — NUCBA Bootcamp (2021–2022)**  
-  Diseño Web · React JS · Backend Fundamentals  
 - **Cursos autodidactas — Udemy (2021)**  
-  HTML · CSS · JavaScript · React · Lógica de Programación  
 
 ---
 
@@ -93,7 +42,7 @@ Git · GitHub · Netlify · VS Code · Jira · Trello
 
 ---
 
-## Proyectos destacados
+## Proyectos
 
 ### Portafolio Personal  
 Sitio construido con Astro, TypeScript y TailwindCSS, priorizando rendimiento y accesibilidad.  
@@ -113,43 +62,11 @@ Repositorio personal de práctica backend (POO, estructuras de datos y Spring Bo
 
 ---
 
-## Propósito a futuro
+## A lo que apunto
 
-Mi objetivo es crecer, crear y ayudar.  
-Quiero construir una empresa que forme personas, no solo empleados.  
-Un espacio donde el error no sea motivo de despido, sino de aprendizaje.  
+Busco crear una empresa donde el **diseño y desarrollo de software** tengan propósito.  
+Un espacio donde las personas crezcan, aprendan y trabajen con valor real.  
 
-> Creo en los equipos donde todos se hacen mejores entre sí.
-
----
-
-## Construir con propósito
-
-No quiero levantar algo a costa de otros.  
-Cuando llegue el momento de formar un equipo, quiero que cada persona reciba el valor y el reconocimiento que merece.  
-
-Muchos jóvenes con talento terminan aceptando trabajar gratis solo por conseguir experiencia,  
-y eso no debería pasar.  
-Quiero crear una empresa donde aprender, crecer y ganar vayan de la mano.  
-
----
-
-<hr/>
-
-## Por qué hago esto
-
-> Voy a poner fin a este “juego” de rogarle a empresas, reclutadores o a quien sea una oportunidad.  
-> Ese es el verdadero propósito de lo que quiero construir: una empresa donde el valor de una persona no dependa de un currículum, sino de sus ganas de crecer.  
->
-> *Un clan es una familia.*  
->
-> Muchas veces me caí, perdí y me vi buscando trabajos que no me motivaban o lugares donde no me sentía parte.  
-> Pero a pesar de todo eso, me voy a volver a levantar.  
->
-> No quiero que nadie más tenga que pasar por lo mismo.  
->
-> Lo decidí hace tiempo: voy a terminar lo que empecé.  
-> Aunque a veces sea difícil avanzar en todos los sentidos, voy a seguir haciendo todo lo que esté a mi alcance para crecer.
 
 ---
 
