@@ -151,10 +151,12 @@ Quiero crear una empresa donde aprender, crecer y ganar vayan de la mano.
 
 ---
 
-## Contacto
+<h4 align="center">Contacto</h4>
+<p align="center">
+  <sub>Email: tomasgz.dev@gmail.com</sub><br/>
+  <sub>LinkedIn: <a href="https://www.linkedin.com/in/tomasgz7">linkedin.com/in/tomasgz7</a></sub>
+</p>
 
-**Email:** tomasgz.dev@gmail.com  
-**LinkedIn:** [linkedin.com/in/tomasgz7](https://www.linkedin.com/in/tomasgz7)  
 ---
 
 <p align="center">
