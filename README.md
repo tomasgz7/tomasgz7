@@ -1,5 +1,5 @@
 <h1 align="center">Tomas B. Ezequiel Guzman</h1>
-<h3 align="center">Frontend Developer | Future Founder of a Digital Agency</h3>
+<h3 align="center">Frontend Developer | Building a Software & Web Design Company</h3>
 
 <p align="center">
   <em>"I can’t allow myself to be ordinary." — Roronoa Zoro</em><br/>
@@ -23,7 +23,7 @@ Ese mismo año comencé la Tecnicatura en Análisis de Sistemas,
 pero los primeros desafíos me abrumaron.  
 Abandoné la carrera y mi primer empleo como desarrollador,  
 convencido de que no era lo mío.  
-Caí en depresión, pero esa pausa me enseñó a recomenzar desde cero.
+Pasé un momento difícil, pero esa pausa me enseñó a recomenzar desde cero.
 
 En 2024 volví con propósito:  
 retomé la carrera, mejoré mi disciplina y me uní a una agencia de marketing digital,  
@@ -134,12 +134,14 @@ Quiero crear una empresa donde aprender, crecer y ganar vayan de la mano.
 
 ---
 
+<hr/>
+
 ## Por qué hago esto
 
 > Voy a poner fin a este “juego” de rogarle a empresas, reclutadores o a quien sea una oportunidad.  
 > Ese es el verdadero propósito de lo que quiero construir: una empresa donde el valor de una persona no dependa de un currículum, sino de sus ganas de crecer.  
 >
-> Un clan es una familia.  
+> *Un clan es una familia.*  
 >
 > Muchas veces me caí, perdí y me vi buscando trabajos que no me motivaban o lugares donde no me sentía parte.  
 > Pero a pesar de todo eso, me voy a volver a levantar.  
