@@ -82,22 +82,22 @@ A backend-focused repository exploring **OOP, data structures, and Spring Boot**
 
 ## GitHub Analytics  
 
-
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=tomasgz7&theme=transparent&hide_border=true&ring=00AEEF&fire=00AEEF&currStreakLabel=00AEEF"
-    alt="GitHub Streak Transparent Blue"
-  />
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=tomasgz7&theme=transparent"
+      alt="GitHub Streak - Transparent" />
+  </a>
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgz7&layout=compact&hide_border=true&bg_color=00000000&title_color=00AEEF&text_color=FFFFFF"
-    alt="Top Languages Transparent Blue"
-  />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgz7&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+    alt="Top Languages Transparent Match" />
 </p>
 
 ---
+
 
 ## Contact  
 
