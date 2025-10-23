@@ -1,4 +1,4 @@
-# Tomás B. Ezequiel Guzmán  
+# Tomas B. Ezequiel Guzman  
 **Founder & Software Engineer at [Developear](https://www.linkedin.com/company/developear-tech)**  
 
 ---
