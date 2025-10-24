@@ -1,86 +1,78 @@
 # Tomas B. Ezequiel Guzman  
-**Founder & Software Engineer at [Developear](https://www.linkedin.com/company/developear-tech)**  
+**Desarrollador Full Stack · Fundador en [Developear](https://www.linkedin.com/company/developear-tech)**  
 
 ---
 
-## About Me  
+## 👋 Sobre mí  
 
-I’m a **Software Engineer** and **Founder of Developear**, a software engineering studio focused on creating **reliable, scalable, and high-performance digital solutions**.  
+Soy **Desarrollador Full Stack** con un año de experiencia.  
+Trabajé en **landing pages**, **sitios de mensajería** y **proyectos para agencias y emprendimientos**, participando en el desarrollo completo y validación de formularios en el backend con **Java** y **Spring Boot** (tests con **Postman**).  
 
-I integrate **frontend precision**, **backend architecture**, and **product-driven engineering** to design systems that last.  
-Each project I build aims for clarity, maintainability, and measurable impact.  
+Actualmente impulso **Developear**, una **empresa de software** que crea soluciones web completas (frontend + backend).  
+Estudio **Análisis de Sistemas (IFTS Nº21)** y sigo aprendiendo **Java**, **POO** y **Spring Boot**, compartiendo mis avances en **GitHub**.  
 
-> *From concept to code — I turn ideas into reliable software.*  
-
-Driven by technical precision and execution, I focus on developing products that are functional, sustainable, and scalable.
+> *Aprendiendo, construyendo y mejorando — un proyecto a la vez.*
 
 ---
 
-## Tech Stack  
+## ⚙️ Stack Tecnológico  
 
-### Languages & Frameworks  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+### 💻 Lenguajes y Frameworks  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
-### Databases  
+### 🗄️ Bases de Datos  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-### Tools & Workflow  
+### 🧰 Herramientas y DevOps  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
-
-### Design & UI  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
-## Featured Projects  
+## 🚀 Proyectos Destacados  
 
 ### [Developear](https://www.linkedin.com/company/developear-tech)  
-**Role:** Founder & Software Engineer  
-Boutique software engineering company focused on **custom digital products, scalability, and technical excellence**.  
-We design and build tailored solutions using **React, Node.js, and Spring Boot**, delivering production-ready results for businesses and startups.  
+**Rol:** Fundador · Desarrollador Full Stack  
+**Descripción:** Empresa de software en crecimiento dedicada a **sitios y apps web completas** con **Angular/React**, **Java** y **Spring Boot**.
 
-### [Personal Portfolio](https://tomasguzmandev.netlify.app/)  
-Built with **Astro**, **TypeScript**, and **TailwindCSS**, emphasizing accessibility, modular design, and performance (+95 Lighthouse).  
-[Repository](https://github.com/tomasgz7/Portfolio)
+### [Portfolio Personal](https://tomasguzmandev.netlify.app/)  
+Hecho con **Astro**, **TypeScript** y **TailwindCSS** (modular y performante).  
+[🔗 Repositorio](https://github.com/tomasgz7/Portfolio)
 
 ### [Resilience Media Group](https://resiliencemediagroup.netlify.app/)  
-Corporate modular website developed in **React + Tailwind**, optimized for SEO, maintainability, and scalability.  
-[Repository](https://github.com/tomasgz7/PaginaResilience)
+Sitio corporativo en **React + Tailwind**, optimizado para SEO y mantenibilidad.  
+[🔗 Repositorio](https://github.com/tomasgz7/PaginaResilience)
 
 ### [Kronner Logistics Platform](https://kronner-logistica-prototipo.netlify.app/)  
-Full-stack logistics prototype using **Node.js + Express + SQL**, featuring dynamic views and modular structure.  
-[Repository](https://github.com/tomasgz7/PaginaKronner)
+Prototipo full stack con **Node.js + Express + SQL** (vistas dinámicas y arquitectura modular).  
+[🔗 Repositorio](https://github.com/tomasgz7/PaginaKronner)
 
 ### [Learning Java](https://github.com/tomasgz7/LearningJava)  
-A backend-focused repository exploring **OOP, data structures, and Spring Boot** — crafted to refine engineering discipline and code quality.
+Ejercicios y proyectos de **Java**, **POO** y **Spring Boot** documentando mi progreso backend.
 
 ---
 
-## Education  
+## 🎓 Educación  
 
-- **Higher Technical Degree in Systems Analysis — IFTS Nº 21 (2024 – 2026)**  
-- **Full Stack Web Development Bootcamp — NUCBA (2021 – 2022)**  
+- **Tecnicatura Superior en Análisis de Sistemas — IFTS Nº21 (2024 – 2026)**  
+- **Bootcamp de Desarrollo Web Full Stack — NUCBA (2021 – 2022)**  
 
 ---
 
-## GitHub Analytics  
+## 📊 Estadísticas de GitHub  
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -98,8 +90,7 @@ A backend-focused repository exploring **OOP, data structures, and Spring Boot**
 
 ---
 
-
-## Contact  
+## 📬 Contacto  
 
 📧 [tomasgz.dev@gmail.com](mailto:tomasgz.dev@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/tomasgz7)  
@@ -108,4 +99,4 @@ A backend-focused repository exploring **OOP, data structures, and Spring Boot**
 
 ---
 
-*Build it · Ship it · Scale it · Refine it*
+✨ *Construir · Aprender · Mejorar*
