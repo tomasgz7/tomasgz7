@@ -11,7 +11,7 @@ Trabajé en **landing pages**, **sitios de mensajería** y **proyectos para agen
 Actualmente impulso **Developear**, una **empresa de software** que crea soluciones web completas (frontend + backend).  
 Estudio **Análisis de Sistemas (IFTS Nº21)** y sigo aprendiendo **Java**, **POO** y **Spring Boot**, compartiendo mis avances en **GitHub**.  
 
-> *Aprendiendo, construyendo y mejorando — un proyecto a la vez.*
+> *Study Hard · Work Hard*
 
 ---
 
