@@ -13,10 +13,10 @@
 
 ## 🔧 Tecnologías principales
 
-- **Backend:** Java, Spring Boot, JPA/Hibernate, Maven  
+- **Backend:** Java, Spring Boot, Node.Js
 - **Frontend:** JavaScript, Angular, TypeScript, TailwindCSS  
-- **Herramientas:** Git/GitHub, Docker, Postman, DBeaver  
-- **Cloud & CI/CD:** AWS (EC2, S3), Jenkins, Netlify  
+- **Herramientas:** Git/GitHub, Docker, Postman
+- **Cloud & CI/CD:** AWS, Netlify  
 - **Bases de Datos:** MySQL, PostgreSQL, SQL Server
 
 ---
