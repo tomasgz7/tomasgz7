@@ -1,59 +1,55 @@
-# Tomas B. Ezequiel Guzman  
-**Full Stack Developer — Java · Spring Boot · JavaScript · Angular · Docker · AWS**
+# Tomás B. Ezequiel Guzmán  
+**Full Stack Developer — JavaScript · Java · React · Spring Boot**
 
 ---
 
-📌 **Objetivo:** Consolidarme como desarrollador backend con Java + Spring Boot, aplicando principios de POO, patrones de diseño y buenas prácticas de arquitectura.
+### 💡 Sobre mí
 
-🎓 Estudiante de Análisis de Sistemas (IFTS Nº21)  
-🎬 YouTube: [@CodeNoZhiend](https://www.youtube.com/@CodeNoZhiend) — +3.9K suscriptores  
-⚙️ Practicando LeetCode y desarrollando proyectos full stack reales
+Desarrollador Full Stack orientado a crear aplicaciones web funcionales con **JavaScript (React / Node.js)** y **Java (Spring Boot)**. Trabajo en proyectos reales para agencias y clientes, construyendo desde landing pages hasta plataformas prototipo con backend integrado.
 
----
-
-## 🔧 Tecnologías principales
-
-- **Backend:** Java, Spring Boot, Node.Js
-- **Frontend:** JavaScript, Angular, TypeScript, TailwindCSS  
-- **Herramientas:** Git/GitHub, Docker, Postman
-- **Cloud & CI/CD:** AWS, Netlify  
-- **Bases de Datos:** MySQL, PostgreSQL, SQL Server
+🎓 Estudiante de Análisis de Sistemas (IFTS Nº21).  
+🚀 Fundador de **Developear** — estudio de software independiente.  
+🎥 Creador de contenido en YouTube e Instagram como [CodeNoZhiend](https://www.youtube.com/@CodeNoZhiend).
 
 ---
 
-## 📂 Repositorios relevantes
+### 🛠️ Stack Tecnológico
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [**Learning Java**](https://github.com/tomasgz7/LearningJava) | Base técnica: POO, colecciones, streams, modelos, REST APIs. | Java |
-| [**LeetCode Solutions**](https://github.com/tomasgz7/leetcode-solutions-by-codeno-zhiend) | Ejercicios resueltos con análisis de complejidad. | Java |
-| [**Halloween Code Challenges**](https://github.com/tomasgz7/halloween-code-challenges) | Resolución completa de Halloween.dev 2025. Top #13 global. | JavaScript (Node.js) |
-| [**Portfolio Personal**](https://github.com/tomasgz7/portafolio-tomas-guzman) | Sitio web personal con diseño propio y deploy en Netlify. | Astro, TypeScript, TailwindCSS |
+- **Frontend:** React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, TailwindCSS  
+- **Backend:** Node.js (Express), Java, Spring Boot  
+- **Bases de Datos:** MySQL, PostgreSQL, LocalStorage  
+- **Deploy & Tools:** Netlify, GitHub, Docker (básico), AWS (básico), Postman, Jira, VS Code, IntelliJ IDEA
 
 ---
 
-## 🏆 Logros técnicos
+### 📂 Proyectos destacados
 
-- **Top #13 Global** — Halloween.dev 2025 (108 pts, 6 retos resueltos sin frameworks).  
-- Serie de videos resolviendo LeetCode en Java.  
-- Portfolio 100% custom: diseño, desarrollo, despliegue.
-
----
-
-## 📡 Creación de contenido
-
-- **YouTube:** Tutoriales, algoritmos, breakdowns de código real.  
-- **Instagram:** [@CodeNoZhiend](https://instagram.com/CodeNoZhiend) — humor dev y backstage real.  
-- Documentación transparente del camino a Dev. SR.
+| Proyecto | Descripción | Stack | Código / Demo |
+|----------|-------------|-------|---------------|
+| **Developear** | Sitio de mi estudio de software. UI profesional, diseño custom y despliegue con dominio propio. | Astro, TypeScript, TailwindCSS | [Repo](https://github.com/tomasgz7/Developear) · [Demo](https://developear.com) |
+| **Resilience Media Group** | Web corporativa para agencia. Componentes reutilizables, SEO básico y diseño responsivo. | React.js, TailwindCSS | [Repo](https://github.com/tomasgz7/PaginaResilience) · [Demo](https://resiliencemediagroup.netlify.app/) |
+| **Kronner Logística** | Prototipo para gestión logística. Arquitectura front + validación + estructura modular. | JS, HTML, CSS | [Repo](https://github.com/tomasgz7/PaginaKronner) · [Demo](https://kronner-logistica-prototipo.netlify.app/) |
+| **Administrador de Fondos (ADF)** | App web para control de gastos personales. Persistencia local + actualización en tiempo real. | React, LocalStorage | [Repo](https://github.com/tomasgz7/CodeChallenge-ADF) · [Demo](https://fondos-codechallenge.netlify.app/) |
 
 ---
 
-## 📨 Contacto
+### 📡 Contenido que creo
+
+- 🎬 Videos resolviendo ejercicios reales y mostrando cómo construyo proyectos.  
+- 📱 Reels cortos: bugs, tips de código, backstage del estudio de software.  
+- 🧠 Logs públicos de aprendizaje como dev en crecimiento.
+
+📺 [YouTube/@CodeNoZhiend](https://youtube.com/@CodeNoZhiend) — +3.9K suscriptores  
+📸 [Instagram/@CodeNoZhiend](https://instagram.com/CodeNoZhiend)
+
+---
+
+### 📨 Contacto
 
 📧 **tomasgz.dev@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/tomasgz7)  
-💻 [Portfolio](https://tomasguzman.dev)  
+🌐 [Portfolio](https://tomasguzman.dev)
 
 ---
 
-> Lo único que importa: seguir mejorando.
+> “Construyo software real basado en problemas reales. El resto es charla.”
