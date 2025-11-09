@@ -1,4 +1,4 @@
-# Tomás B. Ezequiel Guzmán  
+# Tomas B. Ezequiel Guzman  
 **Full Stack Developer — JavaScript · Java · React · Spring Boot**
 
 ---
