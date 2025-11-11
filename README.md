@@ -38,3 +38,7 @@ Cuando no estoy programando, suelo resolver ejercicios en **[LeetCode](https://l
   <a href="https://tomasguzmandev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Tomas_Guzman-black?style=flat-square"></a>
   <a href="https://leetcode.com/u/Zhiendlife/"><img src="https://img.shields.io/badge/LeetCode-Zhiendlife-black?logo=leetcode&logoColor=white&style=flat-square"></a>
 </p>
+
+
+<p align="center"><i>Study Hard · Work Hard</i></p>
+
