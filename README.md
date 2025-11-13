@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Tomas B. Ezequiel Guzman</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer · Product Builder</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square">
@@ -12,20 +12,23 @@
   <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&style=flat-square">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square">
+  <img src="https://img.shields.io/badge/Figma-Design-blue?logo=figma&logoColor=white&style=flat-square">
 </p>
 
 <hr style="border:0.3px solid #ddd; width:55%;">
 
-Soy desarrollador **Full Stack** con experiencia en frontend y backend.  
-Desarrollo aplicaciones web, sitios y herramientas para proyectos personales, agencias y emprendimientos.  
+Soy desarrollador **Full Stack**, orientado a construir productos completos de punta a punta: backend, frontend y diseño de experiencia.  
+Integro programación, diseño y validación UX para entregar soluciones claras, consistentes y mantenibles.
 
-Actualmente estudio **Análisis de Sistemas en el IFTS Nº21 (Buenos Aires)**, donde profundizo en programación orientada a objetos, arquitectura y buenas prácticas.  
-Comencé en proyectos pequeños para **agencias y emprendimientos**, participando en el desarrollo de landing pages, sitios corporativos y **aplicaciones web interactivas**.  
+Trabajo con Figma para estructurar interfaces, definir componentes, armar flujos y documentar decisiones visuales.  
+Mi enfoque es simple: reducir fricción, mejorar claridad y asegurar que diseño y desarrollo funcionen como un sistema único.
 
-Hoy trabajo en **Developear**, un estudio de software que fundé para crear proyectos propios y colaborar con otros desarrolladores.  
-Combino desarrollo, diseño y aprendizaje constante, aplicando lo que estudio en entornos reales.  
+Estudio **Análisis de Sistemas en el IFTS Nº21**, donde profundizo en POO, patrones y buenas prácticas.  
+Desarrollé proyectos para emprendimientos, agencias y proyectos propios, construyendo landing pages, sistemas web y prototipos funcionales.
 
-Cuando no estoy programando, suelo resolver ejercicios en **[LeetCode](https://leetcode.com/u/Zhiendlife/)** o mejorar código en proyectos en curso.  
+Soy fundador de **Developear**, donde combino diseño + desarrollo para proyectos end-to-end.  
+Fuera del trabajo, practico algoritmos en **LeetCode** y refactorizo código para mantener un crecimiento constante.
+
 
 ---
 
