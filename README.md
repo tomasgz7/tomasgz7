@@ -21,11 +21,10 @@
 
 <hr style="border:0.3px solid #ddd; width:55%;">
 
-Soy desarrollador **Full Stack**, combinando programación, diseño y automatización.  
-Trabajo con Java, JavaScript, React, Astro y TailwindCSS.  
+Soy desarrollador **Full Stack**, trabajando con Java, JavaScript, React, Astro y TailwindCSS.  
 Diseño interfaces en **Figma** y construyo flujos automatizados con **n8n**.
 
-La edición y composición de video la realizo de forma independiente en **DaVinci Resolve** y **After Effects**, tanto en tiempos libres como para proyectos locales o del exterior.  
+La edición y composición de video las realizo de forma independiente en **DaVinci Resolve** y **After Effects**, tanto en tiempos libres como para proyectos locales o del exterior.  
 Actualmente estoy aprendiendo **Python**, sumándolo a mi formación técnica.
 
 Soy fundador de **Developear**, donde integro desarrollo, diseño y automatización para construir productos end-to-end.  
