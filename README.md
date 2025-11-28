@@ -12,23 +12,24 @@
   <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&style=flat-square">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square">
+  <img src="https://img.shields.io/badge/n8n-Automation-purple?logo=n8n&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/badge/Figma-Design-blue?logo=figma&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-1f1f1f?logo=davinciresolve&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white&style=flat-square">
 </p>
 
 <hr style="border:0.3px solid #ddd; width:55%;">
 
-Soy desarrollador **Full Stack**, orientado a construir productos completos de punta a punta: backend, frontend y diseño de experiencia.  
-Integro programación, diseño y validación UX para entregar soluciones claras, consistentes y mantenibles.
+Soy desarrollador **Full Stack**, combinando programación, diseño y automatización.  
+Trabajo con Java, JavaScript, React, Astro y TailwindCSS.  
+Diseño interfaces en **Figma** y construyo flujos automatizados con **n8n**.
 
-Trabajo con Figma para estructurar interfaces, definir componentes, armar flujos y documentar decisiones visuales.  
-Mi enfoque es simple: reducir fricción, mejorar claridad y asegurar que diseño y desarrollo funcionen como un sistema único.
+La edición y composición de video la realizo de forma independiente en **DaVinci Resolve** y **After Effects**, tanto en tiempos libres como para proyectos locales o del exterior.  
+Actualmente estoy aprendiendo **Python**, sumándolo a mi formación técnica.
 
-Estudio **Análisis de Sistemas en el IFTS Nº21**, donde profundizo en POO, patrones y buenas prácticas.  
-Desarrollé proyectos para emprendimientos, agencias y proyectos propios, construyendo landing pages, sistemas web y prototipos funcionales.
-
-Soy fundador de **Developear**, donde combino diseño + desarrollo para proyectos end-to-end.  
-Fuera del trabajo, practico algoritmos en **LeetCode** y refactorizo código para mantener un crecimiento constante.
-
+Soy fundador de **Developear**, donde integro desarrollo, diseño y automatización para construir productos end-to-end.  
+Estudio **Análisis de Sistemas en el IFTS Nº21**.
 
 ---
 
