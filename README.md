@@ -20,24 +20,43 @@
 
 ## Sobre mí
 
-Soy desarrollador Full Stack, con una base fuerte en Java, y me gusta construir soluciones que realmente se usen. Me interesa entender el problema antes que la tecnología, y a partir de eso armar algo simple, mantenible y que tenga sentido para quien lo va a usar.
+Soy desarrollador Full Stack con una base fuerte en Java y una forma de trabajar muy orientada a producto. Me interesa entender el problema antes que la tecnología y construir soluciones que realmente se usen, no solo que funcionen.
 
-Trabajo mezclando backend, frontend y automatización. No me enfoco en hacer cosas complejas porque sí, sino en resolver tareas concretas y mejorar procesos que hoy se hacen a mano.
+Trabajo combinando backend, frontend, automatización y diseño, siempre buscando simplificar procesos y evitar soluciones innecesariamente complejas.
 
-Estoy cursando el último año de la carrera de Análisis de Sistemas en el IFTS Nº21.  
-También soy fundador de Developear, donde aplico todo esto en proyectos reales.
+Estoy cursando el último año de la carrera de Análisis de Sistemas en el IFTS Nº21.
+
+---
+
+## Developear
+
+Soy fundador de **Developear**, el proyecto donde concentro todo mi trabajo profesional.
+
+Desde Developear desarrollo soluciones completas, desde la idea inicial hasta la puesta en producción, integrando desarrollo, diseño, automatización y marketing cuando el proyecto lo requiere.
+
+En Developear trabajo principalmente en:
+
+- Desarrollo de **páginas web y aplicaciones**, tanto frontend como backend
+- Construcción de backends y APIs, principalmente en Java
+- Diseño de interfaces y flujos de usuario utilizando **Figma**
+- Implementación de **automatizaciones con n8n**
+- Desarrollo de bots y flujos que reducen trabajo manual
+- Integración con servicios externos y APIs
+- Soporte a estrategias de **marketing digital** orientadas a producto
+
+Developear no es un conjunto de servicios aislados, sino una forma de encarar proyectos de principio a fin.
 
 ---
 
 ## Java
 
-Java es el lenguaje que uso como base para el backend. Lo trabajo desde los fundamentos hasta casos más completos, siempre con foco en código claro y mantenible.
+Java es el lenguaje que uso como base para el backend. Lo trabajo desde los fundamentos hasta implementaciones más completas, siempre priorizando claridad, orden y mantenibilidad.
 
 En Java vengo trabajando con:
 - Programación Orientada a Objetos
 - Uso de distintas versiones (desde Java 8 en adelante)
 - Streams, lambdas y programación funcional
-- Manejo de concurrencia y multithreading
+- Concurrencia y multithreading
 - Testing con JUnit y Mockito
 - Aplicaciones de escritorio con JavaFX y Swing
 - Desarrollo web con Jakarta EE (Servlets, JSP, JSF, CDI, EJB)
@@ -50,30 +69,30 @@ En Java vengo trabajando con:
 
 ## Python
 
-Python lo trabajé a nivel académico y práctico, con foco en lógica y fundamentos. Lo uso como herramienta para pensar soluciones, automatizar y resolver problemas simples de forma directa.
+Python lo trabajé a nivel académico y práctico, con foco en lógica y fundamentos. Lo uso como herramienta de apoyo para automatizar, prototipar y resolver problemas de forma directa.
 
-En Python vi y practiqué:
+En Python trabajé con:
 - Tipos de datos y operadores
 - Condicionales y control de flujo
 - Bucles for y while
 - Listas, tuplas, sets y diccionarios
-- Validaciones de datos de entrada
+- Validaciones de datos
 - Algoritmos simples y resolución paso a paso
 
 ---
 
-## Automatización y bots (n8n + MCP)
+## Automatización, bots y agentes (n8n + MCP)
 
-Acá es donde más me enfoco hoy.
+La automatización es una parte central de Developear.
 
-Uso n8n como base para armar automatizaciones y MCP para construir agentes de IA. No busco hacer flujos enormes ni cosas innecesarias, sino resolver tareas reales que hoy le sacan tiempo a la gente.
+Uso **n8n** como orquestador para construir flujos de trabajo y **MCP** para crear agentes de IA cuando el caso lo justifica. El foco está puesto en sacar tareas manuales del medio y ordenar procesos reales.
 
 Trabajo principalmente en:
-- Automatizar procesos repetitivos con n8n
-- Crear agentes de IA conectados a herramientas concretas
-- Desarrollar bots para WhatsApp y Telegram
-- Armar chatbots para atención, gestión y tareas internas
-- Integrar APIs y servicios externos cuando hace falta
+- Automatización de tareas repetitivas
+- Creación de bots para **WhatsApp y Telegram**
+- Chatbots orientados a atención, gestión y operaciones internas
+- Agentes de IA conectados a herramientas concretas
+- Integración con APIs y servicios externos
 
 **Objetivo:**  
 usar bots y automatizaciones para sacarle trabajo manual al cliente, ordenar procesos y hacer que las tareas del día a día se resuelvan solas, sin agregar complejidad ni soluciones innecesarias.
@@ -82,17 +101,17 @@ usar bots y automatizaciones para sacarle trabajo manual al cliente, ordenar pro
 
 ## Producción audiovisual
 
-Además del desarrollo, soy fundador de Toma 1, una productora audiovisual con más de un año y medio de trayectoria.
+Además del desarrollo, soy fundador de **Toma 1**, una productora audiovisual con más de un año y medio de trayectoria.
 
-Trabajo grabando y editando contenido para artistas musicales, tanto a nivel local como internacional. La edición la realizo con criterios profesionales y tiempos reales de entrega.
+Trabajo grabando y editando contenido para artistas musicales, tanto a nivel local como internacional, cumpliendo plazos reales y estándares profesionales.
 
-Esta experiencia me ayudó mucho a:
-- Tener criterio visual
-- Organizar proyectos
-- Cumplir plazos
-- Comunicarme mejor con clientes
+Esta experiencia me aportó habilidades que también aplico al desarrollo de software:
+- Criterio visual
+- Organización de proyectos
+- Cumplimiento de deadlines
+- Comunicación clara con clientes
 
-Herramientas que uso:
+Herramientas que utilizo:
 - Adobe After Effects
 - Adobe Premiere Pro
 - DaVinci Resolve
