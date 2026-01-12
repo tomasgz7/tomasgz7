@@ -3,20 +3,27 @@
 </p>
 
 <h1 align="center">Tomas B. Ezequiel Guzman</h1>
-<h3 align="center">Full Stack Developer · Java-Oriented</h3>
+<h3 align="center">Full Stack Developer (Java / Spring Boot · Angular) · Analista en Sistemas</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&style=flat-square">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/Figma-Design-orange?logo=figma&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/n8n-Automation-purple?logo=n8n&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square">
 </p>
 
 <p align="center">
-Soy desarrollador Full Stack con una base fuerte en Java, enfocado en construir soluciones claras y funcionales, entendiendo el problema antes de escribir código. Trabajo principalmente en backend desarrollando APIs y lógica de negocio con Java y Spring Boot, manejando DTOs, filtros, paginación e integración con bases de datos, y complemento con frontend utilizando JavaScript y React para implementar interfaces que se conecten correctamente con el backend. Utilizo Figma para el diseño y prototipado de interfaces y flujos de usuario previos a la implementación, y n8n para automatizar tareas, integrar servicios y construir bots y flujos que reducen trabajo manual en procesos reales. Además, trabajo en producción audiovisual como fundador de Toma 1, realizando grabación y edición de contenido para artistas y proyectos utilizando herramientas como After Effects, Premiere Pro, DaVinci Resolve y Photoshop, experiencia que me aportó organización, criterio visual y cumplimiento de plazos que aplico también en el desarrollo de software. Actualmente curso el último año de la carrera de Análisis de Sistemas en el IFTS Nº21 y mantengo una formación constante tanto técnica como práctica.
+Desarrollador Full Stack con base sólida en Java y enfoque en backend, y Analista en Sistemas próximo a recibirse.
+Trabajo en el análisis, diseño e implementación de sistemas, entendiendo el problema funcional y las reglas de negocio antes de desarrollar la solución técnica.
+
+Desarrollo APIs REST con Java y Spring Boot, aplicando DTOs, validaciones, filtros, paginación e integración con bases de datos relacionales.
+En frontend utilizo JavaScript y React para construir interfaces claras que consumen correctamente los servicios backend.
+
+Cuento con experiencia en relevamiento de requerimientos, análisis de procesos, documentación funcional y validación de desarrollos, actuando como nexo entre negocio y desarrollo.
+
+Stack principal: Java · Spring Boot · SQL · JavaScript · Angular
+Formación: Tecnicatura Superior en Análisis de Sistemas (IFTS Nº21) — finalización 2026
 </p>
 
 <p align="center">
