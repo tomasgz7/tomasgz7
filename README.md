@@ -9,6 +9,7 @@ Analista Funcional Técnico<br/>
 Relevamiento de Requerimientos · Procesos · Validación de Sistemas
 </h3>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Análisis_Funcional-blue?style=flat-square">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square">
@@ -24,12 +25,8 @@ Analista Funcional Técnico con experiencia en <strong>relevamiento de requerimi
 </p>
 
 <p align="center">
-Trabajo como nexo entre negocio y equipos técnicos, <strong>transformando necesidades en requerimientos claros y entendibles</strong>,
+Trabajo como nexo entre negocio y equipos técnicos, <strong>transformando necesidades en definiciones claras y entendibles</strong>,
 incluso para personas que no participaron del relevamiento.
-</p>
-
-<p align="center">
-Enfoque en <strong>claridad funcional, alineación temprana y prevención de retrabajo</strong>.
 </p>
 
 <hr/>
@@ -68,4 +65,4 @@ IFTS Nº21 — Finalización estimada: 2026
   </a>
 </p>
 
-<p align="center"><i>Claridad funcional · Menos ambigüedad · Mejor ejecución</i></p>
+<p align="center"><i>Definir bien. Ejecutar sin sorpresas.</i></p>
