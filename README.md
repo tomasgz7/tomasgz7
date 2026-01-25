@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/4b296262-1dd9-44c3-ad35-46106a66772f" alt="banner" />
 </p>
 
-<h1 align="center">Tomás B. Ezequiel Guzmán</h1>
+<h1 align="center">Tomas B. Ezequiel Guzman</h1>
 <h3 align="center">
 Analista Funcional / Analista Técnico-Funcional<br/>
 Relevamiento de Requerimientos · Documentación Funcional · Validación de Sistemas
