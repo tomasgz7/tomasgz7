@@ -2,37 +2,69 @@
   <img src="https://github.com/user-attachments/assets/4b296262-1dd9-44c3-ad35-46106a66772f" alt="banner" />
 </p>
 
-<h1 align="center">Tomas B. Ezequiel Guzman</h1>
-<h3 align="center">Full Stack Developer (Java / Spring Boot · Angular) · Analista en Sistemas</h3>
+<h1 align="center">Tomás B. Ezequiel Guzmán</h1>
+<h3 align="center">
+Analista Funcional / Analista Técnico-Funcional<br/>
+Relevamiento de Requerimientos · Documentación Funcional · Validación de Sistemas
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&style=flat-square">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square">
+  <img src="https://img.shields.io/badge/Análisis_Funcional-blue?style=flat-square">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=flat-square">
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square">
 </p>
 
 <p align="center">
-Desarrollador Full Stack con base sólida en Java y enfoque en backend, y Analista en Sistemas próximo a recibirse.
-Trabajo en el análisis, diseño e implementación de sistemas, entendiendo el problema funcional y las reglas de negocio antes de desarrollar la solución técnica.
-
-Desarrollo APIs REST con Java y Spring Boot, aplicando DTOs, validaciones, filtros, paginación e integración con bases de datos relacionales.
-En frontend utilizo JavaScript y React para construir interfaces claras que consumen correctamente los servicios backend.
-
-Cuento con experiencia en relevamiento de requerimientos, análisis de procesos, documentación funcional y validación de desarrollos, actuando como nexo entre negocio y desarrollo.
-
-Stack principal: Java · Spring Boot · SQL · JavaScript · Angular
-Formación: Tecnicatura Superior en Análisis de Sistemas (IFTS Nº21) — finalización 2026
+Analista Funcional / Técnico-Funcional con formación en Análisis de Sistemas y experiencia en
+<strong>relevamiento de requerimientos, análisis de procesos, documentación funcional y validación de sistemas</strong>.
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/Zhiendlife/"><img src="https://img.shields.io/badge/LeetCode-Zhiendlife-black?logo=leetcode&style=flat-square"></a>
-  <a href="https://youtube.com/@CodeNoZhiend"><img src="https://img.shields.io/badge/YouTube-@CodeNoZhiend-red?logo=youtube&style=flat-square"></a>
-  <a href="https://instagram.com/CodeNoZhiend"><img src="https://img.shields.io/badge/Instagram-@CodeNoZhiend-pink?logo=instagram&style=flat-square"></a>
-  <a href="https://linkedin.com/in/tomasgz7"><img src="https://img.shields.io/badge/LinkedIn-tomasgz7-blue?logo=linkedin&style=flat-square"></a>
-  <a href="mailto:tomasgz.dev@gmail.com"><img src="https://img.shields.io/badge/Email-tomasgz.dev@gmail.com-lightgray?logo=gmail&style=flat-square"></a>
-  <a href="https://tomasguzmandev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Tomás_Guzmán-black?style=flat-square"></a>
+Me dedico a entender las necesidades del usuario y del negocio, traducirlas en requerimientos claros
+y acompañar el proceso de validación para asegurar que las soluciones implementadas respondan a lo acordado.
 </p>
 
-<p align="center"><i>Study Hard · Work Hard</i></p>
+<p align="center">
+Cuento con una base técnica sólida (SQL, nociones de desarrollo backend y frontend) que me permite
+interactuar eficazmente con equipos técnicos, validar soluciones y detectar desvíos tempranos.
+</p>
+
+<hr/>
+
+<h3>🧩 Áreas de experiencia</h3>
+
+<ul>
+  <li>Relevamiento y análisis de requerimientos</li>
+  <li>Documentación funcional</li>
+  <li>Validación funcional de sistemas</li>
+  <li>Análisis de procesos y reglas de negocio</li>
+  <li>Casos de uso e historias de usuario</li>
+</ul>
+
+<h3>🛠️ Herramientas y base técnica</h3>
+
+<ul>
+  <li>SQL / MySQL (consultas, validación de datos)</li>
+  <li>Power BI (modelado y visualización de datos)</li>
+  <li>Jira · Confluence · Trello</li>
+  <li>Git / GitHub</li>
+  <li>Base técnica en desarrollo (Java · Spring Boot · JavaScript · React)</li>
+</ul>
+
+<p>
+Formación: <strong>Tecnicatura Superior en Análisis de Sistemas</strong><br/>
+IFTS Nº21 — Finalización estimada: 2026
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tomasgz7">
+    <img src="https://img.shields.io/badge/LinkedIn-tomasgz7-blue?logo=linkedin&style=flat-square">
+  </a>
+  <a href="mailto:tomasgz.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tomasgz.dev@gmail.com-lightgray?logo=gmail&style=flat-square">
+  </a>
+</p>
+
+<p align="center"><i>Claridad funcional · Alineación temprana · Prevención de errores</i></p>
