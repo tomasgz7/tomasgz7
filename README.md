@@ -3,9 +3,10 @@
 </p>
 
 <h1 align="center">Tomas B. Ezequiel Guzman</h1>
+
 <h3 align="center">
-Analista Funcional / Analista Técnico-Funcional<br/>
-Relevamiento de Requerimientos · Documentación Funcional · Validación de Sistemas
+Analista Funcional Técnico<br/>
+Relevamiento de Requerimientos · Procesos · Validación de Sistemas
 </h3>
 
 <p align="center">
@@ -16,19 +17,19 @@ Relevamiento de Requerimientos · Documentación Funcional · Validación de Sis
   <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square">
 </p>
 
+<hr/>
+
 <p align="center">
-Analista Funcional / Técnico-Funcional con formación en Análisis de Sistemas y experiencia en
-<strong>relevamiento de requerimientos, análisis de procesos, documentación funcional y validación de sistemas</strong>.
+Analista Funcional Técnico con experiencia en <strong>relevamiento de requerimientos, análisis de procesos y validación de sistemas</strong>.
 </p>
 
 <p align="center">
-Me dedico a entender las necesidades del usuario y del negocio, traducirlas en requerimientos claros
-y acompañar el proceso de validación para asegurar que las soluciones implementadas respondan a lo acordado.
+Trabajo como nexo entre negocio y equipos técnicos, <strong>transformando necesidades en requerimientos claros y entendibles</strong>,
+incluso para personas que no participaron del relevamiento.
 </p>
 
 <p align="center">
-Cuento con una base técnica sólida (SQL, nociones de desarrollo backend y frontend) que me permite
-interactuar eficazmente con equipos técnicos, validar soluciones y detectar desvíos tempranos.
+Enfoque en <strong>claridad funcional, alineación temprana y prevención de retrabajo</strong>.
 </p>
 
 <hr/>
@@ -37,24 +38,24 @@ interactuar eficazmente con equipos técnicos, validar soluciones y detectar des
 
 <ul>
   <li>Relevamiento y análisis de requerimientos</li>
-  <li>Documentación funcional</li>
-  <li>Validación funcional de sistemas</li>
-  <li>Análisis de procesos y reglas de negocio</li>
+  <li>Documentación funcional clara y validable</li>
   <li>Casos de uso e historias de usuario</li>
+  <li>Validación funcional y detección temprana de desvíos</li>
+  <li>Análisis de procesos y reglas de negocio</li>
 </ul>
 
 <h3>🛠️ Herramientas y base técnica</h3>
 
 <ul>
-  <li>SQL / MySQL (consultas, validación de datos)</li>
-  <li>Power BI (modelado y visualización de datos)</li>
+  <li>SQL / MySQL (consultas y validación de datos)</li>
+  <li>Power BI (reporting desde Excel / SQL)</li>
   <li>Jira · Confluence · Trello</li>
   <li>Git / GitHub</li>
   <li>Base técnica en desarrollo (Java · Spring Boot · JavaScript · React)</li>
 </ul>
 
 <p>
-Formación: <strong>Tecnicatura Superior en Análisis de Sistemas</strong><br/>
+<strong>Formación:</strong> Tecnicatura Superior en Análisis de Sistemas<br/>
 IFTS Nº21 — Finalización estimada: 2026
 </p>
 
@@ -67,4 +68,4 @@ IFTS Nº21 — Finalización estimada: 2026
   </a>
 </p>
 
-<p align="center"><i>Claridad funcional · Alineación temprana · Prevención de errores</i></p>
+<p align="center"><i>Claridad funcional · Menos ambigüedad · Mejor ejecución</i></p>
