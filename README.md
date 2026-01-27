@@ -6,7 +6,7 @@
 
 <h3 align="center">
 Analista Funcional Técnico<br/>
-Relevamiento de Requerimientos · Procesos · Validación de Sistemas
+Relevamiento de Requerimientos · Análisis de Procesos · Validación Funcional
 </h3>
 
 
@@ -21,12 +21,14 @@ Relevamiento de Requerimientos · Procesos · Validación de Sistemas
 <hr/>
 
 <p align="center">
-Analista Funcional Técnico con experiencia en <strong>relevamiento de requerimientos, análisis de procesos y validación de sistemas</strong>.
+Analista Funcional Técnico con experiencia en <strong>relevamiento y análisis de requerimientos,
+análisis de procesos y validación funcional de sistemas.</strong>.
 </p>
 
 <p align="center">
-Trabajo como nexo entre negocio y equipos técnicos, <strong>transformando necesidades en definiciones claras y entendibles</strong>,
-incluso para personas que no participaron del relevamiento.
+Trabajo como nexo entre negocio y equipos técnicos, transformando necesidades en
+definiciones funcionales claras, trazables y validables, incluso para personas que no
+participaron del relevamiento.
 </p>
 
 <hr/>
@@ -35,10 +37,10 @@ incluso para personas que no participaron del relevamiento.
 
 <ul>
   <li>Relevamiento y análisis de requerimientos</li>
+  <li>Análisis de procesos y reglas de negocio</li>
   <li>Documentación funcional clara y validable</li>
   <li>Casos de uso e historias de usuario</li>
   <li>Validación funcional y detección temprana de desvíos</li>
-  <li>Análisis de procesos y reglas de negocio</li>
 </ul>
 
 <h3>🛠️ Herramientas y base técnica</h3>
