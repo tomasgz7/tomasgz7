@@ -2,52 +2,49 @@
   <img src="https://github.com/user-attachments/assets/4b296262-1dd9-44c3-ad35-46106a66772f" alt="banner" />
 </p>
 
-<h1 align="center">Tomas B. Ezequiel Guzman</h1>
+<h1 align="center">Tomás B. Ezequiel Guzmán</h1>
 
 <h3 align="center">
-Analista Funcional Técnico<br/>
-Relevamiento de Requerimientos · Análisis de Procesos · Validación Funcional
+Transformo requerimientos poco claros en definiciones funcionales que evitan errores y retrabajo
 </h3>
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Análisis_Funcional-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Análisis_Técnico--Funcional-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Ingeniería_de_Requerimientos-2E86C1?style=flat-square">
+  <img src="https://img.shields.io/badge/Reglas_de_Negocio-1F618D?style=flat-square">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=flat-square">
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square">
 </p>
 
 <hr/>
 
 <p align="center">
-Analista Funcional Técnico con experiencia en <strong>relevamiento y análisis de requerimientos,
-análisis de procesos y validación funcional de sistemas.</strong>.
+Trabajo en el punto donde suelen fallar los proyectos de software: requerimientos poco claros,
+reglas implícitas y procesos informales que derivan en errores, reprocesos y soluciones mal
+alineadas con el negocio.
 </p>
 
 <p align="center">
-Trabajo como nexo entre negocio y equipos técnicos, transformando necesidades en
-definiciones funcionales claras, trazables y validables, incluso para personas que no
-participaron del relevamiento.
+Mi foco está en ordenar esa información, hacer explícitas las reglas de negocio y definir
+criterios funcionales claros, asegurando coherencia entre lo que se necesita y lo que se construye.
 </p>
 
 <hr/>
 
-<h3>🧩 Áreas de experiencia</h3>
+<h3>🧩 Dónde aporto mayor valor</h3>
 
 <ul>
-  <li>Relevamiento y análisis de requerimientos</li>
-  <li>Análisis de procesos y reglas de negocio</li>
-  <li>Documentación funcional clara y validable</li>
-  <li>Casos de uso e historias de usuario</li>
-  <li>Validación funcional y detección temprana de desvíos</li>
+  <li>Ingeniería y análisis de requerimientos en contextos poco definidos</li>
+  <li>Identificación y formalización de reglas de negocio</li>
+  <li>Prevención de errores y retrabajo mediante validación temprana</li>
+  <li>Alineación entre negocio, análisis funcional e implementación técnica</li>
 </ul>
 
-<h3>🛠️ Herramientas y base técnica</h3>
+<h3>🛠️ Base técnica y herramientas</h3>
 
 <ul>
-  <li>SQL / MySQL (consultas y validación de datos)</li>
-  <li>Power BI (reporting desde Excel / SQL)</li>
+  <li>SQL / MySQL (análisis y validación de datos)</li>
+  <li>Power BI (análisis y reporting)</li>
   <li>Jira · Confluence · Trello</li>
   <li>Git / GitHub</li>
   <li>Base técnica en desarrollo (Java · Spring Boot · JavaScript · React)</li>
@@ -67,4 +64,4 @@ IFTS Nº21 — Finalización estimada: 2026
   </a>
 </p>
 
-<p align="center"><i>Definir bien. Ejecutar sin sorpresas.</i></p>
+<p align="center"><i>Definir bien para no corregir después.</i></p>
