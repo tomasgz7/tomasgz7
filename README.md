@@ -5,7 +5,7 @@
 <h1 align="center">Tomas B. Ezequiel Guzman</h1>
 
 <h3 align="center">
-Transformo requerimientos poco claros en definiciones funcionales que evitan errores y retrabajo
+Transformo requerimientos difusos en definiciones funcionales claras y accionables.
 </h3>
 
 <p align="center">
@@ -19,9 +19,9 @@ Transformo requerimientos poco claros en definiciones funcionales que evitan err
 <hr/>
 
 <p align="center">
-Trabajo en el punto donde suelen fallar los proyectos de software: requerimientos poco claros,
-reglas implícitas y procesos informales que derivan en errores, reprocesos y soluciones mal
-alineadas con el negocio.
+Trabajo en el punto crítico donde suelen fallar los proyectos de software: requerimientos poco definidos, reglas de negocio implícitas y procesos informales que generan errores y reprocesos.
+
+Mi aporte está en ordenar esa información, hacer explícitas las reglas y definir criterios funcionales claros que alineen negocio y desarrollo.
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ criterios funcionales claros, asegurando coherencia entre lo que se necesita y l
   <li>Ingeniería y análisis de requerimientos en contextos poco definidos</li>
   <li>Identificación y formalización de reglas de negocio</li>
   <li>Prevención de errores y retrabajo mediante validación temprana</li>
-  <li>Alineación entre negocio, análisis funcional e implementación técnica</li>
+  <li>Alineación entre negocio, análisis funcional y desarrollo técnico</li>
 </ul>
 
 <h3>🛠️ Base técnica y herramientas</h3>
