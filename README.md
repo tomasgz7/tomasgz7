@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4b296262-1dd9-44c3-ad35-46106a66772f" alt="banner" />
-</p>
 
-<h1 align="center">Tomas B. Ezequiel Guzman</h1>
+
+<h1 align="center">Tomas Guzman</h1>
 
 <h3 align="center">
-Transformo requerimientos difusos en definiciones funcionales claras y accionables.
+Transformo ambigüedad operativa en definiciones funcionales claras que alinean negocio y tecnología.
 </h3>
 
 <p align="center">
@@ -19,14 +17,15 @@ Transformo requerimientos difusos en definiciones funcionales claras y accionabl
 <hr/>
 
 <p align="center">
-Trabajo en el punto crítico donde suelen fallar los proyectos de software: requerimientos poco definidos, reglas de negocio implícitas y procesos informales que generan errores y reprocesos.
-
-Mi aporte está en ordenar esa información, hacer explícitas las reglas y definir criterios funcionales claros que alineen negocio y desarrollo.
+Trabajo donde los proyectos comienzan a generar fricción: requerimientos poco definidos, reglas implícitas y procesos informales que terminan impactando en la operación.
 </p>
 
 <p align="center">
-Mi foco está en ordenar esa información, hacer explícitas las reglas de negocio y definir
-criterios funcionales claros, asegurando coherencia entre lo que se necesita y lo que se construye.
+Intervengo en ese punto crítico para convertir la incertidumbre en estructura, estableciendo reglas de negocio explícitas y criterios funcionales verificables que reducen retrabajo y anticipan desvíos antes de llegar a producción.
+</p>
+
+<p align="center">
+Actúo como puente entre stakeholders y equipos técnicos, asegurando que lo que se releva, se define y se construye responda a necesidades reales y no a interpretaciones parciales.
 </p>
 
 <hr/>
@@ -34,25 +33,30 @@ criterios funcionales claros, asegurando coherencia entre lo que se necesita y l
 <h3>🧩 Dónde aporto mayor valor</h3>
 
 <ul>
-  <li>Ingeniería y análisis de requerimientos en contextos poco definidos</li>
-  <li>Identificación y formalización de reglas de negocio</li>
-  <li>Prevención de errores y retrabajo mediante validación temprana</li>
-  <li>Alineación entre negocio, análisis funcional y desarrollo técnico</li>
+  <li>Ingeniería de requerimientos en contextos de alta ambigüedad</li>
+  <li>Formalización de reglas de negocio y estructuras operativas</li>
+  <li>Detección temprana de riesgos funcionales</li>
+  <li>Alineación efectiva entre negocio, análisis y desarrollo</li>
+  <li>Generación de mayor previsibilidad para la toma de decisiones</li>
 </ul>
 
-<h3>🛠️ Base técnica y herramientas</h3>
+<h3>🛠️ Base técnica</h3>
+
+<p>
+Comprensión tecnológica aplicada al análisis funcional, utilizada para contrastar definiciones con la implementación real y acompañar decisiones desde una mirada de negocio.
+</p>
 
 <ul>
-  <li>SQL / MySQL (análisis y validación de datos)</li>
-  <li>Power BI (análisis y reporting)</li>
-  <li>Jira · Confluence · Trello</li>
-  <li>Git / GitHub</li>
-  <li>Base técnica en desarrollo (Java · Spring Boot · JavaScript · React)</li>
+  <li>SQL / MySQL - análisis y validación de datos</li>
+  <li>Power BI - análisis y reporting</li>
+  <li>Jira · Confluence · Trello - gestión y trazabilidad</li>
+  <li>Git / GitHub - control y colaboración</li>
+  <li>Base técnica en desarrollo - Java · Spring Boot · JavaScript · React</li>
 </ul>
 
 <p>
 <strong>Formación:</strong> Tecnicatura Superior en Análisis de Sistemas<br/>
-IFTS Nº21 — Finalización estimada: 2026
+IFTS Nº21 - Finalización estimada: 2026
 </p>
 
 <p align="center">
@@ -64,4 +68,4 @@ IFTS Nº21 — Finalización estimada: 2026
   </a>
 </p>
 
-<p align="center"><i>Definir bien para no corregir después.</i></p>
+<p align="center"><i>La claridad funcional no es documentación: es reducción de riesgo.</i></p>
