@@ -1,89 +1,148 @@
-<h1 align="center">Tomas Guzman</h1>
+<div align="center">
 
-<h3 align="center">
-La claridad funcional no es documentación.<br/>
-Es reducción de riesgo.
-</h3>
+# Hola, soy Tomas Guzman
 
-<p align="center">
-Transformo ambigüedad operativa en definiciones funcionales claras que alinean negocio y tecnología.
-</p>
+### Technical Functional Analyst · Data & Tech Content Creator
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Análisis_Técnico--Funcional-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Ingeniería_de_Requerimientos-2E86C1?style=flat-square">
-  <img src="https://img.shields.io/badge/Reglas_de_Negocio-1F618D?style=flat-square">
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square">
+  <em>Cierro la brecha entre el negocio y el desarrollo.<br>
+  Requerimientos claros, datos estructurados, sistemas que funcionan.<br>
+  Lo que aprendo, lo enseño en público.</em>
 </p>
 
-<hr/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tomasgz7-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasgz7/)
+[![Email](https://img.shields.io/badge/Email-tomasgz.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tomasgz.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-tomasgz7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7)
+[![Ubicacion](https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-555?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/xMH6QsGVz1UgSMoQ7)
+[![YouTube](https://img.shields.io/badge/YouTube-%40CodeNoZhiend%20%7C%20+4K-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@CodeNoZhiend)
 
-<p align="center">
-Trabajo en el punto donde los proyectos comienzan a generar fricción:
-</p>
+</div>
 
-<p align="center">
-• Requerimientos poco definidos <br/>
-• Reglas de negocio implícitas <br/>
-• Procesos informales
-</p>
+---
 
-<p align="center">
-Ese escenario suele traducirse en errores operativos, retrabajo y pérdida de previsibilidad.
-</p>
+## Sobre mí
 
-<p align="center">
-Mi rol es intervenir en ese punto crítico para convertir la incertidumbre en estructura, estableciendo definiciones funcionales claras, reglas explícitas y criterios verificables que reduzcan riesgos antes de llegar a producción.
-</p>
+- Diagnostico y optimizo flujos operativos end-to-end: mapeo el estado AS-IS, detecto fricciones y diseño circuitos TO-BE con criterios de aceptación que desarrollo puede ejecutar sin retrabajo.
+- Intermediación técnica entre negocio y desarrollo: traduzco necesidades ambiguas en especificaciones estructuradas con reglas de negocio y casos de uso concretos.
+- Automatizo y hago ingeniería inversa de sistemas reales usando Python, Computer Vision (OpenCV) y interceptación de tráfico WebSocket via Chrome DevTools Protocol.
+- +4K suscriptores en [@CodeNoZhiend](https://youtube.com/@CodeNoZhiend) - resuelvo problemas reales de desarrollo en cámara: SQL, algoritmos, maquetación completa desde cero.
 
-<p align="center">
-Actúo como puente entre stakeholders y equipos técnicos, asegurando que lo que se releva, se define y se construye responda a necesidades reales y no a interpretaciones parciales.
-</p>
+---
 
-<hr/>
+## Contenido en YouTube
 
-<h3>🧩 Dónde aporto mayor valor</h3>
+<div align="center">
 
-<ul>
-  <li>Ingeniería de requerimientos en contextos de alta ambigüedad</li>
-  <li>Formalización de reglas de negocio y estructuras operativas</li>
-  <li>Detección temprana de riesgos funcionales</li>
-  <li>Alineación efectiva entre negocio, análisis y desarrollo</li>
-  <li>Mayor previsibilidad para la toma de decisiones</li>
-</ul>
+[![Canal](https://img.shields.io/badge/YouTube-%40CodeNoZhiend-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@CodeNoZhiend)
+&nbsp;
+![Suscriptores](https://img.shields.io/badge/+4.02K%20suscriptores-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+&nbsp;
+![Videos](https://img.shields.io/badge/+100%20videos-FF4500?style=for-the-badge&logo=youtube&logoColor=white)
 
-<hr/>
+</div>
 
-<h3>🛠️ Base técnica</h3>
+<br>
 
-<p>
-Comprensión tecnológica aplicada al análisis funcional, utilizada para contrastar definiciones con la implementación real y acompañar decisiones desde una mirada de negocio.
-</p>
+| Área | Descripción |
+|---|---|
+| **Backend & Bases de Datos** | Python + PostgreSQL en escenarios reales: recuperación de datos, queries complejas, debugging |
+| **Algoritmia & Problem Solving** | LeetCode en Java, retos de halloween.dev, lógica paso a paso |
+| **Maquetación & UI** | Parciales de maquetación web: HTML + CSS + JS + integración de APIs desde cero |
+| **Dev Culture** | El lado sin filtro de programar: memes, edits, la realidad del trabajo en tech |
 
-<ul>
-  <li>SQL / MySQL - análisis y validación de datos</li>
-  <li>Power BI - análisis y reporting</li>
-  <li>Jira · Confluence · Trello - gestión y trazabilidad</li>
-  <li>Git / GitHub - control y colaboración</li>
-  <li>Base técnica en desarrollo - Java · Spring Boot · JavaScript · React</li>
-</ul>
+<div align="center">
 
-<hr/>
+**[Suscribirte al canal](https://youtube.com/@CodeNoZhiend?sub_confirmation=1)**
 
-<p>
-<strong>Formación</strong><br/>
-Tecnicatura Superior en Análisis de Sistemas<br/>
-IFTS Nº21 - Finalización estimada: 2026
-</p>
+</div>
 
-<hr/>
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/tomasgz7">
-    <img src="https://img.shields.io/badge/LinkedIn-tomasgz7-blue?logo=linkedin&style=flat-square">
-  </a>
-  <a href="mailto:tomasgz.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tomasgz.dev@gmail.com-lightgray?logo=gmail&style=flat-square">
-  </a>
-</p>
+## Stack
+
+**Gestión & Agilidad**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-grey?style=flat-square&logo=fastapi&logoColor=white)
+
+**Datos & Analytics**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Backend & Automatización**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets%20%2F%20CDP-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## Proyectos
+
+### Herramienta de Automatización y Testing - Aplicación Electron
+
+> Herramienta de automatización y testing construida sobre una app Electron de terceros sin acceso al código fuente. Simula inputs reales del sistema, detecta estados visuales de la UI en tiempo real e intercepta el tráfico interno de la aplicación para exponer su lógica oculta.
+
+| Componente | Detalle |
+|---|---|
+| **Computer Vision** | Detección de objetos y estados de UI en tiempo real con OpenCV |
+| **Automatización de inputs** | Control de teclado y mouse via DirectInput API - bypasea las capas de abstracción de Windows |
+| **Ingeniería inversa** | Interceptación del tráfico WebSocket interno de Electron via Chrome DevTools Protocol |
+| **Panel de control** | Interfaz de operación construida en Tkinter para configurar y ejecutar módulos |
+
+`Python` `OpenCV` `DirectInput` `Chrome DevTools Protocol` `WebSocket` `Tkinter`
+
+---
+
+### Proyecto Integrador - Juego
+
+> Proyecto integrador universitario desarrollado como juego interactivo.
+
+[![Ver repo](https://img.shields.io/badge/Ver%20repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/Proyecto-integrador-PP4)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=tomasgz7&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Los mejores sistemas no se construyen escribiendo más código - se construyen entendiendo mejor el problema."*
+
+</div>
