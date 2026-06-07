@@ -70,7 +70,7 @@
 
 **Datos & Analytics**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&whereColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -93,10 +93,10 @@
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -119,9 +119,18 @@
 
 ---
 
-### Proyecto Integrador - Juego
+### Juego 2.5D - Arquitectura FSM + Pygame-CE
 
-> Proyecto integrador universitario desarrollado como juego interactivo.
+> Videojuego de acción 2.5D desarrollado en Python con Pygame-CE, diseñado bajo principios de arquitectura modular y construido en co-creación con diseño UX/UI. La solución desacopla la lógica, las animaciones y los inputs mediante sistemas extensibles sin dependencias circulares.
+
+| Componente | Detalle |
+|---|---|
+| **Máquina de Estados Finitos (FSM)** | Estados `IDLE` · `WALK` · `ATTACK` · `HURT` desacoplados - cada estado gestiona su propio ciclo de animación e inputs sin lógica condicional cruzada. |
+| **Y-Sorting dinámico** | Sistema de profundidad 2.5D por ordenamiento de entidades según coordenada Y en tiempo real - simula perspectiva isométrica sin motor 3D. |
+| **Sistema Hitbox / Hurtbox** | Colisiones precisas con cajas de daño y recepción independientes, separadas del sprite visual para mayor fidelidad de detección. |
+| **Gestión de dependencias** | Entorno reproducible con `uv` - dependencias aisladas y resolución determinista de paquetes. |
+
+`Python` `Pygame-CE` `uv` `FSM` `Y-Sorting` `Hitbox/Hurtbox`
 
 [![Ver repo](https://img.shields.io/badge/Ver%20repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/Proyecto-integrador-PP4)
 
@@ -130,19 +139,14 @@
 ## GitHub Stats
 
 <div align="center">
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tomasgz7&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-
+  
+  <img src="https://streak-stats.demolab.com?user=tomasgz7&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 ---
 
 <div align="center">
 
-*"Los mejores sistemas no se construyen escribiendo más código - se construyen entendiendo mejor el problema."*
+*"Horas de programación nos pueden ahorrar minutos de análisis... pero prefiero analizar primero."*
 
 </div>
