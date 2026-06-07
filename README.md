@@ -25,7 +25,7 @@
 - Diagnostico y optimizo flujos operativos end-to-end: mapeo el estado AS-IS, detecto fricciones y diseño circuitos TO-BE con criterios de aceptación que desarrollo puede ejecutar sin retrabajo.
 - Intermediación técnica entre negocio y desarrollo: traduzco necesidades ambiguas en especificaciones estructuradas con reglas de negocio y casos de uso concretos.
 - Automatizo y hago ingeniería inversa de sistemas reales usando Python, Computer Vision (OpenCV) y interceptación de tráfico WebSocket via Chrome DevTools Protocol.
-- +4K suscriptores en [@CodeNoZhiend](https://youtube.com/@CodeNoZhiend) - resuelvo problemas reales de desarrollo en cámara: SQL, algoritmos, maquetación completa desde cero.
+- +4K suscriptores en [@CodeNoZhiend](https://youtube.com/@CodeNoZhiend) - publico videos resolviendo problemas reales de desarrollo: SQL, algoritmos, maquetación completa desde cero.
 
 ---
 
