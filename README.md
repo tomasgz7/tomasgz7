@@ -15,6 +15,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-tomasgz7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7)
 [![Ubicacion](https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-555?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/xMH6QsGVz1UgSMoQ7)
 [![YouTube](https://img.shields.io/badge/YouTube-%40CodeNoZhiend%20%7C%20+4K-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@CodeNoZhiend)
+[![Hackathon](https://img.shields.io/badge/Microsoft%20Agents%20League-Hackathon%202026-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://aka.ms/agentsleague/discord)
+[![GitHub Developer Program](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7)
 
 </div>
 
@@ -70,7 +72,7 @@
 
 **Datos & Analytics**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&whereColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -84,6 +86,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets%20%2F%20CDP-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pygame-CE](https://img.shields.io/badge/Pygame--CE-Game%20Dev-00B140?style=flat-square&logo=python&logoColor=white)
 
 **Frontend**
 
@@ -93,16 +96,35 @@
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## Proyectos
+
+### CoreSync - Autonomous Reasoning Agent · Microsoft Agents League Hackathon 2026
+
+> Agente de razonamiento autónomo que monitorea, normaliza y reconcilia datos de actividad estudiantil en tiempo real a través de todos los puntos operativos de un Centro de Simulación clínica. Elimina un pipeline manual de 30 días de lag y lo reemplaza por un flujo continuo sin intervención humana.
+
+| Componente | Detalle |
+|---|---|
+| **Normalización inteligente** | Estandarización de formatos DNI antes de cualquier operación de join entre sistemas fuente |
+| **Resolución de conflictos** | Check-outs faltantes inferidos desde contexto de sesión, reglas de scheduling y patrones históricos via GPT-4o |
+| **Segmentación automática** | Clasificación en tiempo real de estudiantes por cohorte, estado y progreso de simulación |
+| **Pipeline zero-latency** | Lo que tomaba 30 días ocurre de forma continua - sin intervención humana ni reportes manuales |
+| **Privacidad por diseño** | PII estudiantil procesada dentro del tenant boundary de Azure - sin exposición externa |
+
+`Azure OpenAI (GPT-4o)` `Microsoft Foundry IQ` `Microsoft Dataverse` `Python 3.11+`
+
+[![Ver repo](https://img.shields.io/badge/Ver%20repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/CoreSync)
+[![Hackathon](https://img.shields.io/badge/Reasoning%20Agents%20Track-Agents%20League%202026-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://aka.ms/agentsleague/discord)
+
+---
 
 ### Herramienta de Automatización y Testing - Aplicación Electron
 
@@ -121,14 +143,14 @@
 
 ### Juego 2.5D - Arquitectura FSM + Pygame-CE
 
-> Videojuego de acción 2.5D desarrollado en Python con Pygame-CE, diseñado bajo principios de arquitectura modular y construido en co-creación con diseño UX/UI. La solución desacopla la lógica, las animaciones y los inputs mediante sistemas extensibles sin dependencias circulares.
+> Videojuego de acción 2.5D desarrollado en Python con Pygame-CE, en co-creación con la diseñadora UX/Diseño [Natalia Laime](https://github.com/nlaime). La arquitectura desacopla lógica, animación e inputs mediante una Máquina de Estados Finitos, logrando un sistema extensible sin dependencias circulares entre componentes.
 
 | Componente | Detalle |
 |---|---|
-| **Máquina de Estados Finitos (FSM)** | Estados `IDLE` · `WALK` · `ATTACK` · `HURT` desacoplados - cada estado gestiona su propio ciclo de animación e inputs sin lógica condicional cruzada. |
-| **Y-Sorting dinámico** | Sistema de profundidad 2.5D por ordenamiento de entidades según coordenada Y en tiempo real - simula perspectiva isométrica sin motor 3D. |
-| **Sistema Hitbox / Hurtbox** | Colisiones precisas con cajas de daño y recepción independientes, separadas del sprite visual para mayor fidelidad de detección. |
-| **Gestión de dependencias** | Entorno reproducible con `uv` - dependencias aisladas y resolución determinista de paquetes. |
+| **Máquina de Estados Finitos (FSM)** | Estados `IDLE · WALK · ATTACK · HURT` desacoplados - cada estado gestiona su propio ciclo de animación e inputs sin lógica condicional cruzada |
+| **Y-Sorting dinámico** | Sistema de profundidad 2.5D por ordenamiento de entidades según coordenada Y en tiempo real - simula perspectiva isométrica sin motor 3D |
+| **Sistema Hitbox / Hurtbox** | Colisiones precisas con cajas de daño y recepción independientes, separadas del sprite visual para mayor fidelidad de detección |
+| **Gestión de dependencias** | Entorno reproducible con `uv` - dependencias aisladas y resolución determinista |
 
 `Python` `Pygame-CE` `uv` `FSM` `Y-Sorting` `Hitbox/Hurtbox`
 
@@ -139,14 +161,17 @@
 ## GitHub Stats
 
 <div align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=tomasgz7&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+<img src="https://streak-stats.demolab.com?user=tomasgz7&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-*"Horas de programación nos pueden ahorrar minutos de análisis... pero prefiero analizar primero."*
+*"Los mejores sistemas no se construyen escribiendo más código - se construyen entendiendo mejor el problema."*
 
 </div>
