@@ -107,19 +107,19 @@
 
 ## Proyectos
 
-### CoreSync - Autonomous Reasoning Agent · Microsoft Agents League Hackathon 2026
+### CoreSync - Autonomous Multi-Agent Reasoning Pipeline · Microsoft Agents League Hackathon 2026
 
-> Agente de razonamiento autónomo que monitorea, normaliza y reconcilia datos de actividad estudiantil en tiempo real a través de todos los puntos operativos de un Centro de Simulación clínica. Elimina un pipeline manual de 30 días de lag y lo reemplaza por un flujo continuo sin intervención humana.
+> Pipeline de razonamiento multi-agente autónomo que monitorea, normaliza y reconcilia registros fragmentados de asistencia (Check-In y Check-Out) en tiempo real a través de aulas paralelas de un Centro de Simulación (Aula A / Aula B). Elimina un ciclo de reconciliación manual de 30 días de lag y lo reemplaza por veredictos automatizados, fundamentados y auditables sin intervención humana.
 
 | Componente | Detalle |
 |---|---|
-| **Normalización inteligente** | Estandarización de formatos DNI antes de cualquier operación de join entre sistemas fuente |
-| **Resolución de conflictos** | Check-outs faltantes inferidos desde contexto de sesión, reglas de scheduling y patrones históricos via GPT-4o |
-| **Segmentación automática** | Clasificación en tiempo real de estudiantes por cohorte, estado y progreso de simulación |
-| **Pipeline zero-latency** | Lo que tomaba 30 días ocurre de forma continua - sin intervención humana ni reportes manuales |
-| **Privacidad por diseño** | PII estudiantil procesada dentro del tenant boundary de Azure - sin exposición externa |
+| **Normalización inteligente** | Estandarización de formatos de identificadores de personal (Employee ID) antes de cualquier operación de cruce de datos entre las aulas fuente. |
+| **Resolución de conflictos** | Inferencia de check-outs faltantes y estados ambiguos mediante un patrón de razonamiento Planificador-Ejecutor-Crítico estructurado via GPT-4o. |
+| **Gobernanza de políticas** | Fundamentación estricta de los veredictos de asistencia condicionados por las reglas de auditoría interna de Microsoft Foundry IQ. |
+| **Análisis de engagement** | Monitoreo adaptativo del contexto de actividad y disponibilidad (Work IQ) para validar la consistencia de los registros de interacción. |
+| **Privacidad por diseño** | Generación de insights ejecutivos agregados con abstracción completa de datos sensibles (PII) procesados dentro del entorno de Fabric IQ. |
 
-`Azure OpenAI (GPT-4o)` `Microsoft Foundry IQ` `Microsoft Dataverse` `Python 3.11+`
+`Azure OpenAI (GPT-4o)` `Microsoft Foundry IQ` `Fabric IQ` `Python 3.11+`
 
 [![Ver repo](https://img.shields.io/badge/Ver%20repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/CoreSync)
 [![Hackathon](https://img.shields.io/badge/Reasoning%20Agents%20Track-Agents%20League%202026-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://aka.ms/agentsleague/discord)
