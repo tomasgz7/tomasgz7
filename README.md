@@ -14,7 +14,8 @@
 [![Email](https://img.shields.io/badge/Email-tomasgz.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tomasgz.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-tomasgz7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7)
 [![Ubicacion](https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-555?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/xMH6QsGVz1UgSMoQ7)
-[![YouTube](https://img.shields.io/badge/YouTube-%40CodeNoZhiend%20%7C%20+4K-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@CodeNoZhiend)
+[![YouTube](https://img.shields.io/badge/YouTube-%40tomasguzmandev%20%7C%20+4K-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@tomasguzmandev)
+[![Instagram](https://img.shields.io/badge/Instagram-%40tomasguzman.dev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tomasguzman.dev/)
 [![Hackathon](https://img.shields.io/badge/Microsoft%20Agents%20League-Hackathon%202026-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://aka.ms/agentsleague/discord)
 [![GitHub Developer Program](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7)
 
@@ -27,7 +28,7 @@
 - Diagnostico y optimizo flujos operativos end-to-end: mapeo el estado AS-IS, detecto fricciones y diseño circuitos TO-BE con criterios de aceptación que desarrollo puede ejecutar sin retrabajo.
 - Intermediación técnica entre negocio y desarrollo: traduzco necesidades ambiguas en especificaciones estructuradas con reglas de negocio y casos de uso concretos.
 - Automatizo y hago ingeniería inversa de sistemas reales usando Python, Computer Vision (OpenCV) y interceptación de tráfico WebSocket via Chrome DevTools Protocol.
-- +4K suscriptores en [@CodeNoZhiend](https://youtube.com/@CodeNoZhiend) - publico videos resolviendo problemas reales de desarrollo: SQL, algoritmos, maquetación completa desde cero.
+- +4K suscriptores en [@tomasguzmandev](https://youtube.com/@tomasguzmandev) - publico videos resolviendo problemas reales de desarrollo: SQL, algoritmos, maquetación completa desde cero.
 
 ---
 
@@ -35,7 +36,7 @@
 
 <div align="center">
 
-[![Canal](https://img.shields.io/badge/YouTube-%40CodeNoZhiend-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@CodeNoZhiend)
+[![Canal](https://img.shields.io/badge/YouTube-%40tomasguzmandev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tomasguzmandev)
 &nbsp;
 ![Suscriptores](https://img.shields.io/badge/+4.02K%20suscriptores-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 &nbsp;
@@ -54,7 +55,7 @@
 
 <div align="center">
 
-**[Suscribirte al canal](https://youtube.com/@CodeNoZhiend?sub_confirmation=1)**
+**[Suscribirte al canal](https://youtube.com/@tomasguzmandev?sub_confirmation=1)**
 
 </div>
 
@@ -162,8 +163,6 @@
 
 <div align="center">
 
-</div>
-
 <img src="https://streak-stats.demolab.com?user=tomasgz7&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 </div>
@@ -172,6 +171,6 @@
 
 <div align="center">
 
-*"Los mejores sistemas no se construyen escribiendo más código - se construyen entendiendo mejor el problema."*
+*"No se trata de tener todas las respuestas, se trata de hacer las preguntas correctas antes de programar y saber programar la solución cuando las tenés."*
 
 </div>
