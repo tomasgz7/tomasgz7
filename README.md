@@ -143,7 +143,7 @@
 
 ### Juego 2.5D - Arquitectura FSM + Pygame-CE
 
-> Videojuego de acción 2.5D desarrollado en Python con Pygame-CE, en co-creación con la diseñadora UX/Diseño [Natalia Laime](https://github.com/nlaime). La arquitectura desacopla lógica, animación e inputs mediante una Máquina de Estados Finitos, logrando un sistema extensible sin dependencias circulares entre componentes.
+> Videojuego de acción 2.5D desarrollado en Python con Pygame-CE, en co-creación con la diseñadora UX/Diseño [Natalia Laime](https://github.com/natuchess). La arquitectura desacopla lógica, animación e inputs mediante una Máquina de Estados Finitos, logrando un sistema extensible sin dependencias circulares entre componentes.
 
 | Componente | Detalle |
 |---|---|
