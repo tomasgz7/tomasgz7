@@ -159,6 +159,16 @@
 
 ---
 
+### anime-for-coders - Open Source Community Project
+> Lista colaborativa y abierta que conecta el mundo del anime con la 
+> ingeniería de software. Organizada por situación de developer, no por género.
+
+`Open Source` `Community` `Content Pillar`
+
+[![Ver repo](https://img.shields.io/badge/Ver%20repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/anime-for-coders)
+
+---
+
 ## GitHub Stats
 
 <div align="center">
