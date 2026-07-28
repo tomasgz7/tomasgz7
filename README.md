@@ -1,171 +1,120 @@
 <div align="center">
 
-# Hola, soy Tomas Guzman
+# Hi, I'm Tomas Guzman
 
-### Technical Functional Analyst · Data & Tech Content Creator
+### Python Developer & Functional Analyst · Systems Analyst Technician · UTN FRBA Incoming
 
 <p align="center">
-  <em>Cierro la brecha entre el negocio y el desarrollo.<br>
-  Requerimientos claros, datos estructurados, sistemas que funcionan.<br>
-  Lo que aprendo, lo enseño en público.</em>
+  <em>I build software from scratch and translate business needs into working solutions.<br>
+  4 years of real experience. Always learning. Always building.</em>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tomasgz7-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasgz7/)
-[![Email](https://img.shields.io/badge/Email-tomasgz.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tomasgz.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-tomasgz7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7)
-[![Ubicacion](https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-555?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/xMH6QsGVz1UgSMoQ7)
 [![YouTube](https://img.shields.io/badge/YouTube-%40tomasguzmandev%20%7C%20+4K-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@tomasguzmandev)
 [![Instagram](https://img.shields.io/badge/Instagram-%40tomasguzman.dev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tomasguzman.dev/)
-[![Hackathon](https://img.shields.io/badge/Microsoft%20Agents%20League-Hackathon%202026-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://aka.ms/agentsleague/discord)
-[![GitHub Developer Program](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7)
+[![Discord](https://img.shields.io/badge/Discord-Tech%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hscQqwuCD)
+[![Email](https://img.shields.io/badge/Email-tomasgz.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tomasgz.dev@gmail.com)
+[![Location](https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-555?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/xMH6QsGVz1UgSMoQ7)
 
 </div>
 
 ---
 
-## Sobre mí
+## About Me
 
-- Diagnostico y optimizo flujos operativos end-to-end: mapeo el estado AS-IS, detecto fricciones y diseño circuitos TO-BE con criterios de aceptación que desarrollo puede ejecutar sin retrabajo.
-- Intermediación técnica entre negocio y desarrollo: traduzco necesidades ambiguas en especificaciones estructuradas con reglas de negocio y casos de uso concretos.
-- Automatizo y hago ingeniería inversa de sistemas reales usando Python, Computer Vision (OpenCV) y interceptación de tráfico WebSocket via Chrome DevTools Protocol.
-- +4K suscriptores en [@tomasguzmandev](https://youtube.com/@tomasguzmandev) - publico videos resolviendo problemas reales de desarrollo: SQL, algoritmos, maquetación completa desde cero.
-
----
-
-## Contenido en YouTube
-
-<div align="center">
-
-[![Canal](https://img.shields.io/badge/YouTube-%40tomasguzmandev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tomasguzmandev)
-&nbsp;
-![Suscriptores](https://img.shields.io/badge/+4.02K%20suscriptores-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-&nbsp;
-![Videos](https://img.shields.io/badge/+100%20videos-FF4500?style=for-the-badge&logo=youtube&logoColor=white)
-
-</div>
-
-<br>
-
-| Área | Descripción |
-|---|---|
-| **Backend & Bases de Datos** | Python + PostgreSQL en escenarios reales: recuperación de datos, queries complejas, debugging |
-| **Algoritmia & Problem Solving** | LeetCode en Java, retos de halloween.dev, lógica paso a paso |
-| **Maquetación & UI** | Parciales de maquetación web: HTML + CSS + JS + integración de APIs desde cero |
-| **Dev Culture** | El lado sin filtro de programar: memes, edits, la realidad del trabajo en tech |
-
-<div align="center">
-
-**[Suscribirte al canal](https://youtube.com/@tomasguzmandev?sub_confirmation=1)**
-
-</div>
+- Python Developer and Functional Analyst with 4 years building software solutions for real clients in Argentina, Spain, Portugal and the United States.
+- I understand what the business needs before writing a single line of code, that's what makes the difference.
+- Systems Analyst Technician - IFTS N°21 (graduated 2026). Incoming student at UTN FRBA - Information Systems Engineering.
+- Sharing what I learn with +4K subscribers on YouTube: programming, web development and tech content.
 
 ---
 
 ## Stack
 
-**Gestión & Agilidad**
+**Development**
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-grey?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Datos & Analytics**
+**Data & Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Backend & Automatización**
+**Tools & Infrastructure**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets%20%2F%20CDP-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pygame-CE](https://img.shields.io/badge/Pygame--CE-Game%20Dev-00B140?style=flat-square&logo=python&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
-## Proyectos
+## Projects
 
-### CoreSync - Autonomous Multi-Agent Reasoning Pipeline · Microsoft Agents League Hackathon 2026
+### CoreSync - Multi-Agent Reasoning Pipeline · Microsoft Agents League Hackathon 2026
 
-> Pipeline de razonamiento multi-agente autónomo que monitorea, normaliza y reconcilia registros fragmentados de asistencia (Check-In y Check-Out) en tiempo real a través de aulas paralelas de un Centro de Simulación (Aula A / Aula B). Elimina un ciclo de reconciliación manual de 30 días de lag y lo reemplaza por veredictos automatizados, fundamentados y auditables sin intervención humana.
+> Autonomous pipeline that normalizes and reconciles fragmented attendance records in real time. Replaces a 30-day manual cycle with automated, auditable verdicts grounded in business rules via Azure OpenAI GPT-4o and Microsoft Foundry IQ.
 
-| Componente | Detalle |
+| Component | Detail |
 |---|---|
-| **Normalización inteligente** | Estandarización de formatos de identificadores de personal (Employee ID) antes de cualquier operación de cruce de datos entre las aulas fuente. |
-| **Resolución de conflictos** | Inferencia de check-outs faltantes y estados ambiguos mediante un patrón de razonamiento Planificador-Ejecutor-Crítico estructurado via GPT-4o. |
-| **Gobernanza de políticas** | Fundamentación estricta de los veredictos de asistencia condicionados por las reglas de auditoría interna de Microsoft Foundry IQ. |
-| **Análisis de engagement** | Monitoreo adaptativo del contexto de actividad y disponibilidad (Work IQ) para validar la consistencia de los registros de interacción. |
-| **Privacidad por diseño** | Generación de insights ejecutivos agregados con abstracción completa de datos sensibles (PII) procesados dentro del entorno de Fabric IQ. |
+| **Data normalization** | Cross-system identifier standardization before any join operation |
+| **Conflict resolution** | Planner-Executor-Critic reasoning pattern over GPT-4o |
+| **Policy governance** | Verdicts grounded in numbered audit rules via Microsoft Foundry IQ |
+| **Executive reporting** | Full PII abstraction, output ready for Fabric IQ / Power BI |
 
-`Azure OpenAI (GPT-4o)` `Microsoft Foundry IQ` `Fabric IQ` `Python 3.11+`
+`Azure OpenAI (GPT-4o)` `Microsoft Foundry IQ` `Fabric IQ` `Python 3.11+` `Docker`
 
-[![Ver repo](https://img.shields.io/badge/Ver%20repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/CoreSync)
-[![Hackathon](https://img.shields.io/badge/Reasoning%20Agents%20Track-Agents%20League%202026-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://aka.ms/agentsleague/discord)
+[![View repo](https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/CoreSync)
 
 ---
 
-### Herramienta de Automatización y Testing - Aplicación Electron
+### User Manager API - FastAPI + JWT + bcrypt
 
-> Herramienta de automatización y testing construida sobre una app Electron de terceros sin acceso al código fuente. Simula inputs reales del sistema, detecta estados visuales de la UI en tiempo real e intercepta el tráfico interno de la aplicación para exponer su lógica oculta.
+> Full CRUD REST API for institutional user management. JWT authentication, bcrypt password hashing, JSON persistence and a frontend in HTML/CSS/JS that consumes the API.
 
-| Componente | Detalle |
-|---|---|
-| **Computer Vision** | Detección de objetos y estados de UI en tiempo real con OpenCV |
-| **Automatización de inputs** | Control de teclado y mouse via DirectInput API - bypasea las capas de abstracción de Windows |
-| **Ingeniería inversa** | Interceptación del tráfico WebSocket interno de Electron via Chrome DevTools Protocol |
-| **Panel de control** | Interfaz de operación construida en Tkinter para configurar y ejecutar módulos |
+`Python` `FastAPI` `JWT` `bcrypt` `JavaScript` `HTML` `CSS`
 
-`Python` `OpenCV` `DirectInput` `Chrome DevTools Protocol` `WebSocket` `Tkinter`
+[![View repo](https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/ifts21-user-manager-fastapi)
 
 ---
 
-### Juego 2.5D - Arquitectura FSM + Pygame-CE
+### Halloween Code Challenges 2025 - #13 Global · JavaScript
 
-> Videojuego de acción 2.5D desarrollado en Python con Pygame-CE, en co-creación con la diseñadora UX/Diseño [Natalia Laime](https://github.com/natuchess). La arquitectura desacopla lógica, animación e inputs mediante una Máquina de Estados Finitos, logrando un sistema extensible sin dependencias circulares entre componentes.
+> All 6 halloween.dev challenges solved in vanilla JavaScript. No libraries, no frameworks — pure logic. Finished ranked #13 globally with 108 points out of 205 participants.
 
-| Componente | Detalle |
-|---|---|
-| **Máquina de Estados Finitos (FSM)** | Estados `IDLE · WALK · ATTACK · HURT` desacoplados - cada estado gestiona su propio ciclo de animación e inputs sin lógica condicional cruzada |
-| **Y-Sorting dinámico** | Sistema de profundidad 2.5D por ordenamiento de entidades según coordenada Y en tiempo real - simula perspectiva isométrica sin motor 3D |
-| **Sistema Hitbox / Hurtbox** | Colisiones precisas con cajas de daño y recepción independientes, separadas del sprite visual para mayor fidelidad de detección |
-| **Gestión de dependencias** | Entorno reproducible con `uv` - dependencias aisladas y resolución determinista |
+`JavaScript` `Algorithms` `Problem Solving`
 
-`Python` `Pygame-CE` `uv` `FSM` `Y-Sorting` `Hitbox/Hurtbox`
-
-[![Ver repo](https://img.shields.io/badge/Ver%20repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/Proyecto-integrador-PP4)
+[![View repo](https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/halloween-code-challenges)
 
 ---
 
-### anime-for-coders - Open Source Community Project
-> Lista colaborativa y abierta que conecta el mundo del anime con la 
-> ingeniería de software. Organizada por situación de developer, no por género.
+### GIFOS - Web App with Giphy API
 
-`Open Source` `Community` `Content Pillar`
+> Web app integrating the Giphy public API: real-time GIF search, webcam recording via MediaDevices + RecordRTC, POST upload and LocalStorage persistence.
 
-[![Ver repo](https://img.shields.io/badge/Ver%20repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/anime-for-coders)
+`JavaScript` `Fetch API` `Async/Await` `MediaDevices API` `HTML5` `CSS3`
+
+[![View repo](https://img.shields.io/badge/Ver%20repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/gifos-project)
+
+---
+
+### AWS Cloud Labs - Infrastructure Portfolio
+
+> 6 hands-on labs on real AWS environments (us-east-1, real credits): VPC, EC2, ALB, Auto Scaling and a scalable Flask app with automated load testing via pytest.
+
+`AWS EC2` `AWS VPC` `AWS ALB` `AWS Auto Scaling` `Python` `Flask` `pytest`
+
+[![View repo](https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/aws-cloud-labs)
 
 ---
 
@@ -173,7 +122,14 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tomasgz7&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasgz7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgz7&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=tomasgz7&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
@@ -181,6 +137,6 @@
 
 <div align="center">
 
-*"No se trata de tener todas las respuestas, se trata de hacer las preguntas correctas antes de programar y saber programar la solución cuando las tenés."*
+*"The best code starts with the right question."*
 
 </div>
