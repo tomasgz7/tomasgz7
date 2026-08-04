@@ -2,8 +2,7 @@
 
 # Hi, I'm Tomas Guzman
 
-### Python Developer & Functional Analyst · Systems Analyst Technician · UTN FRBA Incoming
-
+### Systems & Solutions Analyst · Client-Facing Python Developer · Tech Communicator (+4K Subs)
 <p align="center">
   <em>I build software from scratch and translate business needs into working solutions.<br>
   4 years of real experience. Always learning. Always building.</em>
