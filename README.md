@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tomasgz7-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasgz7/)
 [![YouTube](https://img.shields.io/badge/YouTube-%40tomasguzmandev%20%7C%20+4K-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@tomasguzmandev)
 [![Instagram](https://img.shields.io/badge/Instagram-%40tomasguzman.dev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tomasguzman.dev/)
-[![Discord](https://img.shields.io/badge/Discord-Tech%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hscQqwuCD)
 [![Email](https://img.shields.io/badge/Email-tomasgz.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tomasgz.dev@gmail.com)
 [![Location](https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-555?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/xMH6QsGVz1UgSMoQ7)
 
