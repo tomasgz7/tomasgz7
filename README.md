@@ -4,8 +4,8 @@
 
 ### Systems & Solutions Analyst · Client-Facing Python Developer · Tech Communicator (+4K Subs)
 <p align="center">
-  <em>I build software from scratch and translate business needs into working solutions.<br>
-  4 years of real experience. Always learning. Always building.</em>
+  <em>I build software from scratch and translate business needs into working solutions.
+Currently deepening Cloud & AI Agents. Always building.</em>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tomasgz7-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasgz7/)
@@ -20,10 +20,10 @@
 
 ## About Me
 
-- Python Developer and Functional Analyst with 4 years building software solutions for real clients in Argentina, Spain, Portugal and the United States.
-- I understand what the business needs before writing a single line of code, that's what makes the difference.
-- Systems Analyst Technician - IFTS N°21 (graduated 2026). Incoming student at UTN FRBA - Information Systems Engineering.
-- Sharing what I learn with +4K subscribers on YouTube: programming, web development and tech content.
+- Systems Analyst (IFTS N°21) and Python Developer. I work end-to-end with clients to turn business needs into functional specs and working software (Resilience Media Group).
+- Deepening Cloud & AI Agents: Google ADK, Gemini Enterprise, Google Cloud Platform. Diamond League, Google Cloud Skills Boost.
+- Systems Analyst Technician - IFTS N°21 (graduated July 2026). Incoming student at UTN FRBA - Information Systems Engineering (pending enrollment exam, Sept 2026).
+- Sharing what I learn with 4.1K subscribers on YouTube: programming, web development and tech content.
 
 ---
 
@@ -78,7 +78,7 @@
 
 ### User Manager API - FastAPI + JWT + bcrypt
 
-> Full CRUD REST API for institutional user management. JWT authentication, bcrypt password hashing, JSON persistence and a frontend in HTML/CSS/JS that consumes the API.
+> Final project for "Desarrollo de Aplicaciones Web" (IFTS N°21). User management system for IFTS21: JWT authentication, bcrypt password hashing, JSON persistence, and a frontend in HTML/CSS/JS consuming the API.
 
 `Python` `FastAPI` `JWT` `bcrypt` `JavaScript` `HTML` `CSS`
 
@@ -98,7 +98,7 @@
 
 ### GIFOS - Web App with Giphy API
 
-> Web app integrating the Giphy public API: real-time GIF search, webcam recording via MediaDevices + RecordRTC, POST upload and LocalStorage persistence.
+> Academic project for the 2nd Midterm of "Seminario de Actualización en Tecnología Web" (IFTS N°21). Search, record, generate, upload and store GIFs using the public Giphy API.
 
 `JavaScript` `Fetch API` `Async/Await` `MediaDevices API` `HTML5` `CSS3`
 
