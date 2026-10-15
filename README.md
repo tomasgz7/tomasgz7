@@ -1,140 +1,120 @@
-<div align="center">
+# Tomas Guzman
 
-# Hi, I'm Tomas Guzman
+**Tech Marketing & Business Development para el ecosistema tech.**  
+Convierto tecnología compleja en contenido claro, audiencia real y oportunidades de negocio.
 
-### Systems & Solutions Analyst · Client-Facing Python Developer · Tech Communicator (+4K Subs)
-<p align="center">
-  <em>I build software from scratch and translate business needs into working solutions.
-Currently deepening Cloud & AI Agents. Always building.</em>
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tomasgz7-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasgz7/)
-[![YouTube](https://img.shields.io/badge/YouTube-%40tomasguzmandev%20%7C%20+4K-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@tomasguzmandev)
-[![Instagram](https://img.shields.io/badge/Instagram-%40tomasguzman.dev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tomasguzman.dev/)
-[![Email](https://img.shields.io/badge/Email-tomasgz.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tomasgz.dev@gmail.com)
-[![Location](https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-555?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/xMH6QsGVz1UgSMoQ7)
-
-</div>
+[visualcat.com.ar](https://visualcat.com.ar) · [LinkedIn](https://www.linkedin.com/in/tomasgz7/) · [YouTube](https://youtube.com/@tomasguzmandev) · [Instagram](https://www.instagram.com/tomasguzman.dev/) · [tomasgz.dev@gmail.com](mailto:tomasgz.dev@gmail.com) · Buenos Aires, Argentina
 
 ---
 
-## About Me
+### Perfil
 
-- Systems Analyst (IFTS N°21) and Python Developer. I work end-to-end with clients to turn business needs into functional specs and working software (Resilience Media Group).
-- Deepening Cloud & AI Agents: Google ADK, Gemini Enterprise, Google Cloud Platform. Diamond League, Google Cloud Skills Boost.
-- Systems Analyst Technician - IFTS N°21 (graduated July 2026). Incoming student at UTN FRBA - Information Systems Engineering (pending enrollment exam, Sept 2026).
-- Sharing what I learn with 4.1K subscribers on YouTube: programming, web development and tech content.
+Trabajo en el punto donde se cruzan la tecnología y el negocio.
 
----
+Vengo de sistemas: diseño y desarrollo productos digitales desde cero y entiendo cómo funcionan por dentro. Al mismo tiempo, construí una audiencia de **+1,7 millones de reproducciones** enseñando programación, IA y Cloud, y genero oportunidades comerciales contactando directamente a CEOs, CMOs y directores.
 
-## Stack
+Esa combinación me permite hacer algo que muchas empresas tech necesitan y pocas tienen resuelto: **explicar su producto de forma clara, mostrarlo bien y llevarlo a las personas correctas.**
 
-**Development**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Data & Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**Tools & Infrastructure**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+**Busco:** posiciones en Tech Marketing, Business Development, Developer Relations, Community & Content y Ventas B2B.
 
 ---
 
-## Projects
+### Actualmente
 
-### CoreSync - Multi-Agent Reasoning Pipeline · Microsoft Agents League Hackathon 2026
-
-> Autonomous pipeline that normalizes and reconciles fragmented attendance records in real time. Replaces a 30-day manual cycle with automated, auditable verdicts grounded in business rules via Azure OpenAI GPT-4o and Microsoft Foundry IQ.
-
-| Component | Detail |
-|---|---|
-| **Data normalization** | Cross-system identifier standardization before any join operation |
-| **Conflict resolution** | Planner-Executor-Critic reasoning pattern over GPT-4o |
-| **Policy governance** | Verdicts grounded in numbered audit rules via Microsoft Foundry IQ |
-| **Executive reporting** | Full PII abstraction, output ready for Fabric IQ / Power BI |
-
-`Azure OpenAI (GPT-4o)` `Microsoft Foundry IQ` `Fabric IQ` `Python 3.11+` `Docker`
-
-[![View repo](https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/CoreSync)
+- Construyendo **[Visual Cat](https://visualcat.com.ar)**, una iniciativa de cobertura y contenido para eventos de tecnología y negocios en Buenos Aires.
+- Creando contenido educativo sobre programación, IA y Cloud para personas que están dando sus primeros pasos en tecnología.
+- Profundizando en Cloud y agentes de IA (Google ADK, Gemini Enterprise) y cursando Ingeniería en Sistemas de Información en la UTN FRBA.
 
 ---
 
-### User Manager API - FastAPI + JWT + bcrypt
+### Resultados
 
-> Final project for "Desarrollo de Aplicaciones Web" (IFTS N°21). User management system for IFTS21: JWT authentication, bcrypt password hashing, JSON persistence, and a frontend in HTML/CSS/JS consuming the API.
-
-`Python` `FastAPI` `JWT` `bcrypt` `JavaScript` `HTML` `CSS`
-
-[![View repo](https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/ifts21-user-manager-fastapi)
+| +1,7 M | +4.100 | 7+ | 5/5 | Top 13 |
+|:---:|:---:|:---:|:---:|:---:|
+| reproducciones de contenido propio | suscriptores construidos desde cero | eventos tech cubiertos | calificación de clientes internacionales | ranking mundial, halloween.dev 2025 |
 
 ---
 
-### Halloween Code Challenges 2025 - #13 Global · JavaScript
+### Trabajo destacado
 
-> All 6 halloween.dev challenges solved in vanilla JavaScript. No libraries, no frameworks — pure logic. Finished ranked #13 globally with 108 points out of 205 participants.
+#### Visual Cat · Business Development y marketing de eventos
 
-`JavaScript` `Algorithms` `Problem Solving`
+**Desafío:** posicionar una iniciativa nueva frente a organizadores y empresas del ecosistema tech, sin trayectoria previa ni presupuesto.  
+**Enfoque:** prospección directa a decisores (CEOs, CMOs, directores), propuestas de valor diseñadas para cada evento y un sitio propio con estética cinematográfica que muestra resultados en lugar de prometerlos.  
+**Resultado:** coberturas en **Google Cloud Summit Argentina, Data Saturday LATAM 2026, Google Buenos Aires, SpaceXAI for Buenos Aires y FIT**, y relaciones activas con organizaciones que me incorporaron a sus próximos eventos.  
+**Qué demuestra:** capacidad de abrir puertas, negociar y sostener relaciones comerciales.
 
-[![View repo](https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/halloween-code-challenges)
+[Ver sitio](https://visualcat.com.ar)
 
----
+#### Contenido educativo · [@tomasguzmandev](https://youtube.com/@tomasguzmandev)
 
-### GIFOS - Web App with Giphy API
+**Desafío:** hacer accesible la tecnología a personas que no vienen del mundo técnico.  
+**Enfoque:** contenido de punta a punta (investigación, guion, producción, edición, SEO y análisis de audiencia) con explicaciones simples y sin dar nada por sabido.  
+**Resultado:** **+4.100 suscriptores y +1,7 M de reproducciones**, construidos desde cero y sin inversión publicitaria.  
+**Qué demuestra:** estrategia de contenidos, comunicación técnica y crecimiento de audiencia.
 
-> Academic project for the 2nd Midterm of "Seminario de Actualización en Tecnología Web" (IFTS N°21). Search, record, generate, upload and store GIFs using the public Giphy API.
+#### CoreSync · Microsoft Agents League Hackathon 2026
 
-`JavaScript` `Fetch API` `Async/Await` `MediaDevices API` `HTML5` `CSS3`
+**Desafío:** un proceso manual de conciliación de registros de asistencia que tardaba 30 días.  
+**Enfoque:** pipeline multiagente que normaliza datos de distintos sistemas, resuelve conflictos con un patrón Planner-Executor-Critic sobre GPT-4o y fundamenta cada veredicto en reglas de auditoría.  
+**Resultado:** un ciclo de 30 días convertido en un proceso automatizado, auditable y listo para reportes ejecutivos, sin exponer datos personales.  
+**Qué demuestra:** pensamiento orientado a problemas de negocio y dominio de herramientas de IA actuales.
 
-[![View repo](https://img.shields.io/badge/Ver%20repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/gifos-project)
-
----
-
-### AWS Cloud Labs - Infrastructure Portfolio
-
-> 6 hands-on labs on real AWS environments (us-east-1, real credits): VPC, EC2, ALB, Auto Scaling and a scalable Flask app with automated load testing via pytest.
-
-`AWS EC2` `AWS VPC` `AWS ALB` `AWS Auto Scaling` `Python` `Flask` `pytest`
-
-[![View repo](https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tomasgz7/aws-cloud-labs)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasgz7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgz7&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tomasgz7&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-
-</div>
+`Azure OpenAI` `Microsoft Foundry IQ` `Fabric IQ` `Python` `Docker` · [Ver repositorio](https://github.com/tomasgz7/CoreSync)
 
 ---
 
-<div align="center">
+### Experiencia
 
-*"The best code starts with the right question."*
+| Rol | Organización | Período |
+|---|---|---|
+| Fundador · Tech Marketing & Business Development | Visual Cat | 2026 – actualidad |
+| Captación de clientes, marketing de contenidos y proyectos web | Freelance (clientes de España, Portugal y EE. UU.) | 2022 – actualidad |
+| Fundador · Producción audiovisual y ventas directas | Toma 1 Producciones | 2024 – 2026 |
+| Product Designer & Frontend Developer | Resilience Media Group | 2024 – 2025 |
+| Platform Contributor, QA & Event Host | Data Saturday LATAM 2026 | 2026 |
 
-</div>
+**Lo más relevante de cada etapa**
+
+- **Freelance:** capté y fidelicé clientes internacionales con calificación 5/5. Uno empezó con un video y pasó a contratar 40 por mes.
+- **Toma 1 Producciones:** armé la cartera de clientes desde cero con prospección directa y propuestas comerciales.
+- **Resilience Media Group:** fui la única persona a cargo del ciclo completo de los productos digitales de los clientes: análisis de competencia, identidad visual, prototipos en Figma, desarrollo, QA, lanzamiento y posicionamiento en Google.
+- **Data Saturday LATAM 2026:** mejoras de frontend integradas a producción mediante Pull Requests aprobados, auditorías de QA y usabilidad, y moderación de 7 sesiones en vivo.
+
+---
+
+### Cómo trabajo
+
+**Entiendo antes de proponer.** Analizo al cliente, a su competencia y a su audiencia antes de diseñar una propuesta.  
+**Muestro, no prometo.** Prefiero que el trabajo hable: un sitio, una cobertura o un video valen más que una presentación.  
+**Soy constante.** No todas las propuestas reciben respuesta y no todos los proyectos funcionan a la primera. Hago seguimiento con respeto, aprendo de cada intento y sigo hasta encontrar el camino.
+
+---
+
+### Proyectos técnicos
+
+| Proyecto | Qué demuestra | Tecnologías |
+|---|---|---|
+| [Halloween Code Challenges 2025](https://github.com/tomasgz7/halloween-code-challenges) | Top 13 mundial entre 205 participantes, resolviendo desafíos de lógica sin librerías | JavaScript |
+| [User Manager API](https://github.com/tomasgz7/ifts21-user-manager-fastapi) | API con autenticación segura (JWT y bcrypt) y frontend propio que la consume | Python, FastAPI, JavaScript |
+| [AWS Cloud Labs](https://github.com/tomasgz7/aws-cloud-labs) | Infraestructura real en AWS: redes, balanceo de carga, escalado automático y pruebas de carga | AWS, Python, Flask, pytest |
+| [GIFOS](https://github.com/tomasgz7/gifos-project) | App web que integra una API pública y la cámara del dispositivo | JavaScript, HTML5, CSS3 |
+
+---
+
+### Herramientas
+
+**Marketing y negocio:** prospección outbound, propuestas B2B, estrategia de contenidos, marketing de eventos, producción audiovisual, SEO  
+**Diseño y producto:** Figma, UX/UI, Google Search Console, Lighthouse  
+**Desarrollo:** JavaScript, HTML, CSS, Python, FastAPI, PHP, Laravel, Java  
+**Datos, Cloud e IA:** PostgreSQL, MySQL, Pandas, Power BI, Google Cloud, AWS, Azure OpenAI, Docker, Git, Postman
+
+**Formación:** Técnico en Análisis de Sistemas (IFTS N.º 21) · Ingeniería en Sistemas de Información, UTN FRBA (en curso)
+
+---
+
+### Contacto
+
+Si tu empresa tiene un producto tech que merece llegar a más personas, conversemos.
+
+[tomasgz.dev@gmail.com](mailto:tomasgz.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tomasgz7/) · [visualcat.com.ar](https://visualcat.com.ar)
