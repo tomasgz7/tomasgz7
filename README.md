@@ -1,37 +1,38 @@
 # Tomas Guzman
 
-**Tech Marketing & Business Development para el ecosistema tech.**  
-Convierto tecnología compleja en contenido claro, audiencia real y oportunidades de negocio.
+**Ayudo a empresas tech a comunicar y vender lo que construyen.**  
+Tech Marketing · Ventas B2B · Business Development · Buenos Aires, Argentina
 
-[visualcat.com.ar](https://visualcat.com.ar) · [LinkedIn](https://www.linkedin.com/in/tomasgz7/) · [YouTube](https://youtube.com/@tomasguzmandev) · [Instagram](https://www.instagram.com/tomasguzman.dev/) · [tomasgz.dev@gmail.com](mailto:tomasgz.dev@gmail.com) · Buenos Aires, Argentina
+[Portafolio](https://tomasgz7.github.io/) · [LinkedIn](https://www.linkedin.com/in/tomasgz7/) · [Visual Cat](https://visualcat.com.ar) · [YouTube](https://youtube.com/@tomasguzmandev) · [Instagram](https://www.instagram.com/tomasguzman.dev/) · [tomasgz.dev@gmail.com](mailto:tomasgz.dev@gmail.com)
 
 ---
 
 ### Perfil
 
-Trabajo en el punto donde se cruzan la tecnología y el negocio.
+Junto tres cosas que casi nunca vienen en la misma persona: **contenido que genera audiencia**, **prospección que abre puertas** y una **base técnica** para entender el producto por dentro.
 
-Vengo de sistemas: diseño y desarrollo productos digitales desde cero y entiendo cómo funcionan por dentro. Al mismo tiempo, construí una audiencia de **+1,7 millones de reproducciones** enseñando programación, IA y Cloud, y genero oportunidades comerciales contactando directamente a CEOs, CMOs y directores.
+Vengo de sistemas: diseño, desarrollo y pruebo productos digitales desde cero. Con esa base edité contenido que superó los **4 millones de visualizaciones**, ayudé a una empresa sin clientes online a recibir **+30 clientes por mes** y convertí un pedido de USD 15 en un **fee mensual de USD 400**.
 
-Esa combinación me permite hacer algo que muchas empresas tech necesitan y pocas tienen resuelto: **explicar su producto de forma clara, mostrarlo bien y llevarlo a las personas correctas.**
+**Mi diferencial:** construyo lo que comunico y vendo.
 
-**Busco:** posiciones en Tech Marketing, Business Development, Developer Relations, Community & Content y Ventas B2B.
-
----
-
-### Actualmente
-
-- Construyendo **[Visual Cat](https://visualcat.com.ar)**, una iniciativa de cobertura y contenido para eventos de tecnología y negocios en Buenos Aires.
-- Creando contenido educativo sobre programación, IA y Cloud para personas que están dando sus primeros pasos en tecnología.
-- Profundizando en Cloud y agentes de IA (Google ADK, Gemini Enterprise) y cursando Ingeniería en Sistemas de Información en la UTN FRBA.
+**Busco:** posiciones en Tech Marketing, Business Development, Ventas B2B, Developer Relations y Community & Content.
 
 ---
 
 ### Resultados
 
-| +1,7 M | +4.100 | 7+ | 5/5 | Top 13 |
-|:---:|:---:|:---:|:---:|:---:|
-| reproducciones de contenido propio | suscriptores construidos desde cero | eventos tech cubiertos | calificación de clientes internacionales | ranking mundial, halloween.dev 2025 |
+| +4 M | +30 | x26 | 9 | +54 | #13 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| vistas con +60 reels editados | clientes por mes para un cliente | de USD 15 a USD 400 por mes | eventos tech cubiertos en 2026 | eventos tech asistidos desde julio 2026 | mundial en halloween.dev 2025 |
+
+---
+
+### Actualmente
+
+- Construyendo **[Visual Cat](https://visualcat.com.ar)**: cobertura de eventos tech con fotos, reels y trailers, para que lleguen más allá de quienes estuvieron ahí.
+- Colaborando en **Marketing & Communications** en el relanzamiento de **GDG Buenos Aires**.
+- Coordinando una **comunidad tech de 34 profesionales** que va a eventos y comparte oportunidades.
+- Cursando **Ingeniería en Sistemas de Información** en la UTN FRBA.
 
 ---
 
@@ -39,28 +40,35 @@ Esa combinación me permite hacer algo que muchas empresas tech necesitan y poca
 
 #### Visual Cat · Business Development y marketing de eventos
 
-**Desafío:** posicionar una iniciativa nueva frente a organizadores y empresas del ecosistema tech, sin trayectoria previa ni presupuesto.  
-**Enfoque:** prospección directa a decisores (CEOs, CMOs, directores), propuestas de valor diseñadas para cada evento y un sitio propio con estética cinematográfica que muestra resultados en lugar de prometerlos.  
-**Resultado:** coberturas en **Google Cloud Summit Argentina, Data Saturday LATAM 2026, Google Buenos Aires, SpaceXAI for Buenos Aires y FIT**, y relaciones activas con organizaciones que me incorporaron a sus próximos eventos.  
+**Desafío:** posicionar una marca nueva frente a organizadores y empresas del ecosistema tech, sin trayectoria previa ni presupuesto.  
+**Enfoque:** prospección en frío a fundadores, CEOs y organizadores, con propuestas de valor diseñadas para cada evento y cobertura a cambio de acreditación.  
+**Resultado:** **9 eventos cubiertos en 2026**, como Google Cloud Summit, Data Saturday LATAM, AILAT26, FIT, Content Snack Galicia y el Evento EDU de Google. Acceso negociado en 4 de los 9 eventos, una acreditación de prensa y material entregado a speakers de Google, Nvidia e icomm. Mi cobertura de AILAT26 superó las 3.900 impresiones en LinkedIn.  
 **Qué demuestra:** capacidad de abrir puertas, negociar y sostener relaciones comerciales.
 
 [Ver sitio](https://visualcat.com.ar)
 
-#### Contenido educativo · [@tomasguzmandev](https://youtube.com/@tomasguzmandev)
+#### Sitio para una empresa de logística · De cero a +30 clientes por mes
 
-**Desafío:** hacer accesible la tecnología a personas que no vienen del mundo técnico.  
-**Enfoque:** contenido de punta a punta (investigación, guion, producción, edición, SEO y análisis de audiencia) con explicaciones simples y sin dar nada por sabido.  
-**Resultado:** **+4.100 suscriptores y +1,7 M de reproducciones**, construidos desde cero y sin inversión publicitaria.  
-**Qué demuestra:** estrategia de contenidos, comunicación técnica y crecimiento de audiencia.
+**Desafío:** una empresa de mensajería y logística que nadie encontraba en internet.  
+**Enfoque:** análisis de competencia, identidad propia en Figma, desarrollo del sitio, QA y posicionamiento en Google con Search Console.  
+**Resultado:** **+30 clientes por mes** a partir del sitio.  
+**Qué demuestra:** marketing con base técnica, desde la estrategia hasta la implementación.
 
-#### CoreSync · Microsoft Agents League Hackathon 2026
+[Ver repositorio](https://github.com/tomasgz7/kronner-digital-solution)
 
-**Desafío:** un proceso manual de conciliación de registros de asistencia que tardaba 30 días.  
-**Enfoque:** pipeline multiagente que normaliza datos de distintos sistemas, resuelve conflictos con un patrón Planner-Executor-Critic sobre GPT-4o y fundamenta cada veredicto en reglas de auditoría.  
-**Resultado:** un ciclo de 30 días convertido en un proceso automatizado, auditable y listo para reportes ejecutivos, sin exponer datos personales.  
-**Qué demuestra:** pensamiento orientado a problemas de negocio y dominio de herramientas de IA actuales.
+#### Contenido para un autor con +500 mil suscriptores
 
-`Azure OpenAI` `Microsoft Foundry IQ` `Fabric IQ` `Python` `Docker` · [Ver repositorio](https://github.com/tomasgz7/CoreSync)
+**Desafío:** horas de transmisiones en vivo que no llegaban a redes sociales.  
+**Enfoque:** +60 reels verticales editados para retención, con ritmo, color y subtítulos.  
+**Resultado:** **+4 M de visualizaciones**. En ese período su Instagram pasó de ~146 mil a más de 600 mil seguidores.  
+**Qué demuestra:** estrategia de contenidos y crecimiento de audiencia.
+
+#### Data Saturday LATAM 2026 · De pedir una entrada a Staff
+
+**Desafío:** quería asistir al evento y no formaba parte de la organización.  
+**Enfoque:** audité la web sin que me lo pidieran y entregué informes con severidad, impacto y solución. Eso me abrió el acceso al repositorio.  
+**Resultado:** Pull Requests aprobados, **Staff certificado**, 7 sesiones moderadas y 3 recomendaciones en LinkedIn de la organización, una de ellas de una Microsoft MVP.  
+**Qué demuestra:** iniciativa, criterio técnico y construcción de relaciones.
 
 ---
 
@@ -69,25 +77,27 @@ Esa combinación me permite hacer algo que muchas empresas tech necesitan y poca
 | Rol | Organización | Período |
 |---|---|---|
 | Fundador · Tech Marketing & Business Development | Visual Cat | 2026 – actualidad |
-| Captación de clientes, marketing de contenidos y proyectos web | Freelance (clientes de España, Portugal y EE. UU.) | 2022 – actualidad |
+| Captación de clientes, contenido y edición de video | Freelance (España, Portugal y EE. UU.) | 2022 – actualidad |
 | Fundador · Producción audiovisual y ventas directas | Toma 1 Producciones | 2024 – 2026 |
 | Product Designer & Frontend Developer | Resilience Media Group | 2024 – 2025 |
-| Platform Contributor, QA & Event Host | Data Saturday LATAM 2026 | 2026 |
+| Web Developer Intern · Contrato de prácticas | Ingeniust | Ene. 2022 – May. 2022 |
+| Staff voluntario certificado, QA y colaborador | Data Saturday LATAM Argentina 2026 | 2026 |
+| Colaborador · Marketing & Communications | GDG Buenos Aires | 2026 – actualidad |
 
 **Lo más relevante de cada etapa**
 
-- **Freelance:** capté y fidelicé clientes internacionales con calificación 5/5. Uno empezó con un video y pasó a contratar 40 por mes.
-- **Toma 1 Producciones:** armé la cartera de clientes desde cero con prospección directa y propuestas comerciales.
-- **Resilience Media Group:** fui la única persona a cargo del ciclo completo de los productos digitales de los clientes: análisis de competencia, identidad visual, prototipos en Figma, desarrollo, QA, lanzamiento y posicionamiento en Google.
-- **Data Saturday LATAM 2026:** mejoras de frontend integradas a producción mediante Pull Requests aprobados, auditorías de QA y usabilidad, y moderación de 7 sesiones en vivo.
+- **Freelance:** clientes internacionales que llegaron por Fiverr (5/5) y pasaron a trabajar conmigo de forma directa. Uno empezó con un pedido de USD 15 y hoy paga un fee mensual de USD 400 por investigación, guion y edición. También fui editor principal de un divulgador ambiental de España (+50 videos).
+- **Toma 1 Producciones:** armé la cartera de clientes desde cero con prospección directa a artistas: 16 videoclips y 25 videos para un canal musical.
+- **Resilience Media Group:** única persona a cargo del ciclo completo, desde el análisis de competencia y los prototipos en Figma hasta el desarrollo, el QA de APIs con Postman y Swagger, la publicación y el SEO.
+- **Ingeniust:** módulos CRUD en PHP/Laravel, mi primera experiencia profesional en software.
 
 ---
 
 ### Cómo trabajo
 
 **Entiendo antes de proponer.** Analizo al cliente, a su competencia y a su audiencia antes de diseñar una propuesta.  
-**Muestro, no prometo.** Prefiero que el trabajo hable: un sitio, una cobertura o un video valen más que una presentación.  
-**Soy constante.** No todas las propuestas reciben respuesta y no todos los proyectos funcionan a la primera. Hago seguimiento con respeto, aprendo de cada intento y sigo hasta encontrar el camino.
+**Muestro, no prometo.** Un sitio, una cobertura o un video valen más que una presentación.  
+**Soy constante.** No todas las propuestas reciben respuesta. Hago seguimiento con respeto, aprendo de cada intento y sigo hasta encontrar el camino.
 
 ---
 
@@ -95,21 +105,24 @@ Esa combinación me permite hacer algo que muchas empresas tech necesitan y poca
 
 | Proyecto | Qué demuestra | Tecnologías |
 |---|---|---|
-| [Halloween Code Challenges 2025](https://github.com/tomasgz7/halloween-code-challenges) | Top 13 mundial entre 205 participantes, resolviendo desafíos de lógica sin librerías | JavaScript |
-| [User Manager API](https://github.com/tomasgz7/ifts21-user-manager-fastapi) | API con autenticación segura (JWT y bcrypt) y frontend propio que la consume | Python, FastAPI, JavaScript |
-| [AWS Cloud Labs](https://github.com/tomasgz7/aws-cloud-labs) | Infraestructura real en AWS: redes, balanceo de carga, escalado automático y pruebas de carga | AWS, Python, Flask, pytest |
-| [GIFOS](https://github.com/tomasgz7/gifos-project) | App web que integra una API pública y la cámara del dispositivo | JavaScript, HTML5, CSS3 |
+| [CoreSync](https://github.com/tomasgz7/CoreSync) | Pipeline multiagente que automatiza un proceso manual de 30 días, presentado en la Microsoft Agents League Hackathon 2026 | Azure OpenAI, Python, Docker |
+| [Kronner Digital Solution](https://github.com/tomasgz7/kronner-digital-solution) | Sitio con propuesta de valor clara y SEO que generó +30 clientes por mes | HTML, CSS, JavaScript, SEO |
+| [Halloween Code Challenges 2025](https://github.com/tomasgz7/halloween-code-challenges) | Puesto 13 mundial entre 205 participantes, con lógica en JavaScript puro y sin librerías | JavaScript |
+| [User Manager API](https://github.com/tomasgz7/ifts21-user-manager-fastapi) | API con autenticación segura (JWT y bcrypt) y un frontend propio | Python, FastAPI, JavaScript |
+| [AWS Cloud Labs](https://github.com/tomasgz7/aws-cloud-labs) | Infraestructura en AWS: redes, balanceo de carga, escalado automático y pruebas de carga | AWS, Python, Flask, pytest |
+| [Portafolio](https://github.com/tomasgz7/tomasgz7.github.io) | Sitio propio con animaciones, SEO, consentimiento de cookies y GA4 | HTML, CSS, JavaScript |
 
 ---
 
 ### Herramientas
 
-**Marketing y negocio:** prospección outbound, propuestas B2B, estrategia de contenidos, marketing de eventos, producción audiovisual, SEO  
-**Diseño y producto:** Figma, UX/UI, Google Search Console, Lighthouse  
-**Desarrollo:** JavaScript, HTML, CSS, Python, FastAPI, PHP, Laravel, Java  
-**Datos, Cloud e IA:** PostgreSQL, MySQL, Pandas, Power BI, Google Cloud, AWS, Azure OpenAI, Docker, Git, Postman
+**Marketing y negocio:** prospección outbound, propuestas B2B, negociación, estrategia de contenidos, marketing de eventos, LinkedIn, SEO  
+**Contenido:** edición de video, reels, guion, fotografía de eventos, UGC  
+**Diseño y producto:** Figma, UX/UI, Google Search Console, Lighthouse, QA  
+**Desarrollo:** JavaScript, HTML, CSS, Python, FastAPI, PHP, Laravel, Node.js  
+**Datos, Cloud e IA:** Google Cloud, AWS, Azure OpenAI, Docker, Git, Postman
 
-**Formación:** Técnico en Análisis de Sistemas (IFTS N.º 21) · Ingeniería en Sistemas de Información, UTN FRBA (en curso)
+**Formación:** Técnico en Análisis de Sistemas (IFTS N.º 21) · Ingeniería en Sistemas de Información, UTN FRBA (en curso) · Google Cloud Computing Foundations
 
 ---
 
@@ -117,4 +130,4 @@ Esa combinación me permite hacer algo que muchas empresas tech necesitan y poca
 
 Si tu empresa tiene un producto tech que merece llegar a más personas, conversemos.
 
-[tomasgz.dev@gmail.com](mailto:tomasgz.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tomasgz7/) · [visualcat.com.ar](https://visualcat.com.ar)
+[Portafolio](https://tomasgz7.github.io/) · [LinkedIn](https://www.linkedin.com/in/tomasgz7/) · [tomasgz.dev@gmail.com](mailto:tomasgz.dev@gmail.com)
